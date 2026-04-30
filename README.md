@@ -54,35 +54,39 @@ at the **University of Ruhuna - Faculty of Technology**.
 
 ## 📊 System Modules
 
+- Student Management
+- Course Unit Management
+- Attendance Tracking
+- Marks Management
+- Grade Calculation
+- Eligibility Checking
+- Result Processing
 
-Student Management
-Course Unit Management
-Attendance Tracking
-Marks Management
-Grade Calculation
-Eligibility Checking
-Result Processing
-
+---
 
 ## 🚀 Setup
-Create the database
-Import SQL files
-Run table creation scripts
-Insert sample data
-Configure database users & permissions
+- Create the database
+- Import SQL files
+- Run table creation scripts
+- Insert sample data
+- Configure database users & permissions
+
+---
 
 ## 📖 Academic Purpose
 
 This project was developed for learning:
 
-Database Design
-SQL Queries
-Database Security
-User Privilege Management
-Academic Record Handling
+- Database Design
+- SQL Queries
+- Database Security
+- User Privilege Management
+- Academic Record Handling
+
+---
 
 ## 👨‍💻 Developed For
 
-Department of ICT
-Faculty of Technology
-University of Ruhuna
+- Department of ICT
+- Faculty of Technology
+- University of Ruhuna
