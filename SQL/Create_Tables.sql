@@ -58,7 +58,6 @@ CREATE TABLE Course(
     course_type ENUM('Theory','Practical') NOT NULL,
     FOREIGN KEY (dep_id) REFERENCES Department(dep_id) ON DELETE CASCADE,
     FOREIGN KEY (level_id, sem_id) REFERENCES Level_Semester(level_id, sem_id) ON DELETE CASCADE,
-    FOREIGN KEY (enroll_id) REFERENCES Enrollment(enroll_id) ON DELETE CASCADE
 );
 
 CREATE TABLE Lecture(
@@ -76,7 +75,7 @@ CREATE TABLE Lecture(
     lec_position VARCHAR(50) NOT NULL,
     gender ENUM('Male','Female') NOT NULL,
     email VARCHAR(50) NOT NULL,
-    FOREIGN KEY (user_id) REFERENCES User(user_id) ON DELETE CASCADE
+    FOREIGN KEY (user_id) REFERENCES User(user_id) ON DELETE CASCADE,
     FOREIGN KEY (dep_id) REFERENCES Department(dep_id) ON DELETE CASCADE
 );
 
