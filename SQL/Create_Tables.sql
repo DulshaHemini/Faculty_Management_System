@@ -108,7 +108,7 @@ CREATE TABLE Enrollment(
     student_id INT,
     course_id INT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT NULL,
+    updated_at TIMESTAMP NULL DEFAULT NULL,
     FOREIGN KEY (student_id) REFERENCES Student(student_id) ON DELETE CASCADE,
     FOREIGN KEY (course_id) REFERENCES Course(course_id) ON DELETE CASCADE
 );
