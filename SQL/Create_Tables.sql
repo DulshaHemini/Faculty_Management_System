@@ -1,3 +1,6 @@
+-- Active: 1777615804621@@127.0.0.1@3306@student_management_system
+CREATE DATABASE Student_Management_System ;
+
 CREATE TABLE User(
     user_id INT PRIMARY KEY AUTO_INCREMENT,
     user_first_name VARCHAR(20) NOT NULL,
@@ -54,10 +57,9 @@ CREATE TABLE Course(
     dep_id INT,
     level_id INT,
     sem_id INT,
-    enroll_id INT,
     course_type ENUM('Theory','Practical') NOT NULL,
     FOREIGN KEY (dep_id) REFERENCES Department(dep_id) ON DELETE CASCADE,
-    FOREIGN KEY (level_id, sem_id) REFERENCES Level_Semester(level_id, sem_id) ON DELETE CASCADE,
+    FOREIGN KEY (level_id, sem_id) REFERENCES Level_Semester(level_id, sem_id) ON DELETE CASCADE
 );
 
 CREATE TABLE Lecture(

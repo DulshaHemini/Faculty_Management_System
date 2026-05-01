@@ -1,6 +1,6 @@
 
 -- Users (77 total)
-INSERT INTO Users (user_first_name, user_last_name, email, dob, user_type) VALUES
+INSERT INTO user (user_first_name, user_last_name, email, dob, user_type) VALUES
 -- Students 1-20 (ICT Department)
 ('Amali', 'Perera', 'amali.perera@stu.edu.lk', '2000-05-12', 'Student'),
 ('Nuwan', 'Bandara', 'nuwan.bandara@stu.edu.lk', '2001-08-23', 'Student'),
@@ -338,10 +338,10 @@ INSERT INTO Enrollment (student_id, course_id, created_at, updated_at) VALUES
 -- Student 20
 (20, 1, '2024-01-15 10:00:00', NULL), (20, 3, '2024-01-15 10:00:00', NULL),
 (20, 4, '2024-01-15 10:00:00', NULL), (20, 5, '2024-01-15 10:00:00', NULL),
-(20, 7, '2024-01-15 10:00:00', NULL), (20, 10, '2024-01-15 10:00:00', NULL),
+(20, 7, '2024-01-15 10:00:00', NULL), (20, 10, '2024-01-15 10:00:00', NULL);
 
 -- Engineering Department Students (21-40) - Enrolled in ET courses (11-20)
--- Student 21
+INSERT INTO Enrollment (student_id, course_id, created_at, updated_at) VALUES-- Student 21
 (21, 11, '2024-01-15 10:00:00', NULL), (21, 12, '2024-01-15 10:00:00', NULL),
 (21, 13, '2024-01-15 10:00:00', NULL), (21, 14, '2024-01-15 10:00:00', NULL),
 (21, 15, '2024-01-15 10:00:00', NULL), (21, 16, '2024-01-15 10:00:00', NULL),
@@ -420,10 +420,11 @@ INSERT INTO Enrollment (student_id, course_id, created_at, updated_at) VALUES
 -- Student 40
 (40, 11, '2024-01-15 10:00:00', NULL), (40, 12, '2024-01-15 10:00:00', NULL),
 (40, 13, '2024-01-15 10:00:00', NULL), (40, 14, '2024-01-15 10:00:00', NULL),
-(40, 16, '2024-01-15 10:00:00', NULL), (40, 20, '2024-01-15 10:00:00', NULL),
+(40, 16, '2024-01-15 10:00:00', NULL), (40, 20, '2024-01-15 10:00:00', NULL);
 
 -- Biosystems Department Students (41-60) - Enrolled in BST courses (21-30)
 -- Student 41
+INSERT INTO Enrollment (student_id, course_id, created_at, updated_at) VALUES
 (41, 21, '2024-01-15 10:00:00', NULL), (41, 22, '2024-01-15 10:00:00', NULL),
 (41, 23, '2024-01-15 10:00:00', NULL), (41, 24, '2024-01-15 10:00:00', NULL),
 (41, 25, '2024-01-15 10:00:00', NULL), (41, 26, '2024-01-15 10:00:00', NULL),
@@ -1077,9 +1078,10 @@ INSERT INTO Eligible (student_id, course_id, attendance_percentage, status) VALU
 (19, 2, 65, 'Not Eligible'), (19, 3, 72, 'Eligible'), (19, 4, 60, 'Not Eligible'), (19, 5, 68, 'Eligible'),
 (19, 8, 70, 'Eligible'), (19, 9, 65, 'Not Eligible'),
 (20, 1, 78, 'Eligible'), (20, 3, 75, 'Eligible'), (20, 4, 82, 'Eligible'), (20, 5, 70, 'Eligible'),
-(20, 7, 72, 'Eligible'), (20, 10, 80, 'Eligible'),
+(20, 7, 72, 'Eligible'), (20, 10, 80, 'Eligible');
 
 -- Engineering Students eligibility
+INSERT INTO Eligible (student_id, course_id, attendance_percentage, status) VALUES
 (21, 11, 88, 'Eligible'), (21, 12, 85, 'Eligible'), (21, 13, 90, 'Eligible'), (21, 14, 82, 'Eligible'),
 (21, 15, 78, 'Eligible'), (21, 16, 86, 'Eligible'),
 (22, 11, 75, 'Eligible'), (22, 12, 70, 'Eligible'), (22, 13, 65, 'Not Eligible'), (22, 14, 72, 'Eligible'),
@@ -1119,9 +1121,10 @@ INSERT INTO Eligible (student_id, course_id, attendance_percentage, status) VALU
 (39, 11, 70, 'Eligible'), (39, 13, 68, 'Eligible'), (39, 14, 72, 'Eligible'), (39, 15, 65, 'Not Eligible'),
 (39, 17, 70, 'Eligible'), (39, 19, 68, 'Eligible'),
 (40, 11, 82, 'Eligible'), (40, 12, 78, 'Eligible'), (40, 13, 75, 'Eligible'), (40, 14, 80, 'Eligible'),
-(40, 16, 72, 'Eligible'), (40, 20, 76, 'Eligible'),
+(40, 16, 72, 'Eligible'), (40, 20, 76, 'Eligible');
 
 -- Biosystems Students eligibility
+INSERT INTO Eligible (student_id, course_id, attendance_percentage, status) VALUES
 (41, 21, 95, 'Eligible'), (41, 22, 90, 'Eligible'), (41, 23, 88, 'Eligible'), (41, 24, 92, 'Eligible'),
 (41, 25, 85, 'Eligible'), (41, 26, 89, 'Eligible'),
 (42, 21, 65, 'Not Eligible'), (42, 22, 62, 'Not Eligible'), (42, 23, 70, 'Eligible'), (42, 24, 68, 'Eligible'),
