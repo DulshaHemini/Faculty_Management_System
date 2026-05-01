@@ -5,8 +5,8 @@ USE Student_Management_System;
 
 CREATE TABLE User(
     user_id INT PRIMARY KEY AUTO_INCREMENT,
-    user_first_name VARCHAR(20) NOT NULL,
-    user_last_name VARCHAR(20) NOT NULL,
+    user_first_name VARCHAR(50) NOT NULL,
+    user_last_name VARCHAR(50) NOT NULL,
     email VARCHAR(50) NOT NULL,
     dob DATE,
     user_type ENUM('Admin','Dean','Lecturer','Technical_Officer','Student') NOT NULL,
@@ -16,8 +16,8 @@ CREATE TABLE User(
 CREATE TABLE Technical_Officer(
     officer_id INT PRIMARY KEY AUTO_INCREMENT,
     user_id INT,
-    first_name VARCHAR(20) NOT NULL,
-    last_name VARCHAR(20) NOT NULL,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
     nic VARCHAR(12) NOT NULL,
     dob DATE,
     email VARCHAR(50) NOT NULL,
@@ -88,8 +88,8 @@ CREATE TABLE Student(
     user_id INT,
     student_reg_no VARCHAR(12) NOT NULL,
     nic VARCHAR(12) NOT NULL,
-    first_name VARCHAR(20) NOT NULL,
-    last_name VARCHAR(20) NOT NULL,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
     sgpa DECIMAL(4,2),
     cgpa DECIMAL(4,2),
     gender ENUM('Male','Female') NOT NULL,

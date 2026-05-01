@@ -2,84 +2,84 @@
 -- Users (77 total)
 INSERT INTO user (user_first_name, user_last_name, email, dob, user_type) VALUES
 -- Students 1-20 (ICT Department)
-('Amali', 'Perera', 'amali.perera@stu.edu.lk', '2000-05-12', 'Student'),
-('Nuwan', 'Bandara', 'nuwan.bandara@stu.edu.lk', '2001-08-23', 'Student'),
-('Tharindu', 'Jayawardena', 'tharindu.j@stu.edu.lk', '2000-11-02', 'Student'),
-('Dilini', 'Kumari', 'dilini.kumari@stu.edu.lk', '2002-01-15', 'Student'),
-('Kasun', 'Liyanage', 'kasun.liyanage@stu.edu.lk', '2001-07-19', 'Student'),
-('Chamari', 'Silva', 'chamari.silva@stu.edu.lk', '2000-09-30', 'Student'),
-('Lahiru', 'Fernando', 'lahiru.fernando@stu.edu.lk', '2001-12-11', 'Student'),
-('Madhavi', 'Gunasekara', 'madhavi.g@stu.edu.lk', '2002-04-22', 'Student'),
-('Isuru', 'Rathnayake', 'isuru.r@stu.edu.lk', '2000-10-05', 'Student'),
-('Sanduni', 'Wijesinghe', 'sanduni.w@stu.edu.lk', '2001-03-17', 'Student'),
-('Pasan', 'Mendis', 'pasan.mendis@stu.edu.lk', '2000-06-28', 'Student'),
-('Nadeesha', 'Abeykoon', 'nadeesha.a@stu.edu.lk', '2002-08-14', 'Student'),
-('Ruwan', 'Dissanayake', 'ruwan.d@stu.edu.lk', '2001-01-09', 'Student'),
-('Thilini', 'Samarawickrama', 'thilini.s@stu.edu.lk', '2000-12-01', 'Student'),
-('Hasitha', 'Wickramasinghe', 'hasitha.w@stu.edu.lk', '2002-05-20', 'Student'),
-('Oshadi', 'Hettiarachchi', 'oshadi.h@stu.edu.lk', '2001-10-31', 'Student'),
-('Sachith', 'Ranasinghe', 'sachith.r@stu.edu.lk', '2000-07-08', 'Student'),
-('Aruni', 'Weerasinghe', 'aruni.w@stu.edu.lk', '2001-04-26', 'Student'),
-('Dhanushka', 'Kaluarachchi', 'dhanushka.k@stu.edu.lk', '2002-09-18', 'Student'),
-('Nirosha', 'Jayasuriya', 'nirosha.j@stu.edu.lk', '2000-02-11', 'Student'),
+('Amali', 'Perera', 'amali.perera@fot.ruh.ac.lk', '2000-05-12', 'Student'),
+('Nuwan', 'Bandara', 'nuwan.bandara@fot.ruh.ac.lk', '2001-08-23', 'Student'),
+('Tharindu', 'Jayawardena', 'tharindu.j@fot.ruh.ac.lk', '2000-11-02', 'Student'),
+('Dilini', 'Kumari', 'dilini.kumari@fot.ruh.ac.lk', '2002-01-15', 'Student'),
+('Kasun', 'Liyanage', 'kasun.liyanage@fot.ruh.ac.lk', '2001-07-19', 'Student'),
+('Chamari', 'Silva', 'chamari.silva@fot.ruh.ac.lk', '2000-09-30', 'Student'),
+('Lahiru', 'Fernando', 'lahiru.fernando@fot.ruh.ac.lk', '2001-12-11', 'Student'),
+('Madhavi', 'Gunasekara', 'madhavi.g@fot.ruh.ac.lk', '2002-04-22', 'Student'),
+('Isuru', 'Rathnayake', 'isuru.r@fot.ruh.ac.lk', '2000-10-05', 'Student'),
+('Sanduni', 'Wijesinghe', 'sanduni.w@fot.ruh.ac.lk', '2001-03-17', 'Student'),
+('Pasan', 'Mendis', 'pasan.mendis@fot.ruh.ac.lk', '2000-06-28', 'Student'),
+('Nadeesha', 'Abeykoon', 'nadeesha.a@fot.ruh.ac.lk', '2002-08-14', 'Student'),
+('Ruwan', 'Dissanayake', 'ruwan.d@fot.ruh.ac.lk', '2001-01-09', 'Student'),
+('Thilini', 'Samarawickrama', 'thilini.s@fot.ruh.ac.lk', '2000-12-01', 'Student'),
+('Hasitha', 'Wickramasinghe', 'hasitha.w@fot.ruh.ac.lk', '2002-05-20', 'Student'),
+('Oshadi', 'Hettiarachchi', 'oshadi.h@fot.ruh.ac.lk', '2001-10-31', 'Student'),
+('Sachith', 'Ranasinghe', 'sachith.r@fot.ruh.ac.lk', '2000-07-08', 'Student'),
+('Aruni', 'Weerasinghe', 'aruni.w@fot.ruh.ac.lk', '2001-04-26', 'Student'),
+('Dhanushka', 'Kaluarachchi', 'dhanushka.k@fot.ruh.ac.lk', '2002-09-18', 'Student'),
+('Nirosha', 'Jayasuriya', 'nirosha.j@fot.ruh.ac.lk', '2000-02-11', 'Student'),
 -- Students 21-40 (Engineering Technology Department)
-('Saman', 'Rajapaksha', 'saman.r@stu.edu.lk', '2001-03-14', 'Student'),
-('Kumudini', 'Wimalasena', 'kumudini.w@stu.edu.lk', '2000-07-22', 'Student'),
-('Rohan', 'Dharmasiri', 'rohan.d@stu.edu.lk', '2002-11-30', 'Student'),
-('Chinthaka', 'Abeywardena', 'chinthaka.a@stu.edu.lk', '2001-05-18', 'Student'),
-('Deepika', 'Jayaweera', 'deepika.j@stu.edu.lk', '2000-09-09', 'Student'),
-('Mahinda', 'Siriwardena', 'mahinda.s@stu.edu.lk', '2002-01-27', 'Student'),
-('Kamal', 'Gunawardena', 'kamal.g@stu.edu.lk', '2001-12-05', 'Student'),
-('Anoma', 'Hettiarachchi', 'anoma.h@stu.edu.lk', '2000-04-13', 'Student'),
-('Priyantha', 'Wickramaratne', 'priyantha.w@stu.edu.lk', '2002-08-19', 'Student'),
-('Champa', 'Bandaranayake', 'champa.b@stu.edu.lk', '2001-10-07', 'Student'),
-('Lalith', 'Samarasinghe', 'lalith.s@stu.edu.lk', '2000-06-25', 'Student'),
-('Nimali', 'Kularatne', 'nimali.k@stu.edu.lk', '2002-02-14', 'Student'),
-('Upul', 'Rathnayake', 'upul.r@stu.edu.lk', '2001-09-03', 'Student'),
-('Shyama', 'Peris', 'shyama.p@stu.edu.lk', '2000-11-21', 'Student'),
-('Ajith', 'Weerakkody', 'ajith.w@stu.edu.lk', '2002-03-10', 'Student'),
-('Mala', 'Fernandopulle', 'mala.f@stu.edu.lk', '2001-07-28', 'Student'),
-('Harsha', 'Wijewardena', 'harsha.w@stu.edu.lk', '2000-12-16', 'Student'),
-('Kanchana', 'Dissanayake', 'kanchana.d@stu.edu.lk', '2002-05-04', 'Student'),
-('Anura', 'Senaratne', 'anura.s@stu.edu.lk', '2001-01-22', 'Student'),
-('Renuka', 'Weerasinghe', 'renuka.w@stu.edu.lk', '2000-08-11', 'Student'),
+('Saman', 'Rajapaksha', 'saman.r@fot.ruh.ac.lk', '2001-03-14', 'Student'),
+('Kumudini', 'Wimalasena', 'kumudini.w@fot.ruh.ac.lk', '2000-07-22', 'Student'),
+('Rohan', 'Dharmasiri', 'rohan.d@fot.ruh.ac.lk', '2002-11-30', 'Student'),
+('Chinthaka', 'Abeywardena', 'chinthaka.a@fot.ruh.ac.lk', '2001-05-18', 'Student'),
+('Deepika', 'Jayaweera', 'deepika.j@fot.ruh.ac.lk', '2000-09-09', 'Student'),
+('Mahinda', 'Siriwardena', 'mahinda.s@fot.ruh.ac.lk', '2002-01-27', 'Student'),
+('Kamal', 'Gunawardena', 'kamal.g@fot.ruh.ac.lk', '2001-12-05', 'Student'),
+('Anoma', 'Hettiarachchi', 'anoma.h@fot.ruh.ac.lk', '2000-04-13', 'Student'),
+('Priyantha', 'Wickramaratne', 'priyantha.w@fot.ruh.ac.lk', '2002-08-19', 'Student'),
+('Champa', 'Bandaranayake', 'champa.b@fot.ruh.ac.lk', '2001-10-07', 'Student'),
+('Lalith', 'Samarasinghe', 'lalith.s@fot.ruh.ac.lk', '2000-06-25', 'Student'),
+('Nimali', 'Kularatne', 'nimali.k@fot.ruh.ac.lk', '2002-02-14', 'Student'),
+('Upul', 'Rathnayake', 'upul.r@fot.ruh.ac.lk', '2001-09-03', 'Student'),
+('Shyama', 'Peris', 'shyama.p@fot.ruh.ac.lk', '2000-11-21', 'Student'),
+('Ajith', 'Weerakkody', 'ajith.w@fot.ruh.ac.lk', '2002-03-10', 'Student'),
+('Mala', 'Fernandopulle', 'mala.f@fot.ruh.ac.lk', '2001-07-28', 'Student'),
+('Harsha', 'Wijewardena', 'harsha.w@fot.ruh.ac.lk', '2000-12-16', 'Student'),
+('Kanchana', 'Dissanayake', 'kanchana.d@fot.ruh.ac.lk', '2002-05-04', 'Student'),
+('Anura', 'Senaratne', 'anura.s@fot.ruh.ac.lk', '2001-01-22', 'Student'),
+('Renuka', 'Weerasinghe', 'renuka.w@fot.ruh.ac.lk', '2000-08-11', 'Student'),
 -- Students 41-60 (Biosystems Technology Department)
-('Gamini', 'Wijesundara', 'gamini.w@stu.edu.lk', '2001-04-16', 'Student'),
-('Sriyani', 'Kodituwakku', 'sriyani.k@stu.edu.lk', '2000-09-27', 'Student'),
-('Jagath', 'Wimalaweera', 'jagath.w@stu.edu.lk', '2002-12-09', 'Student'),
-('Kusum', 'Liyanarachchi', 'kusum.l@stu.edu.lk', '2001-06-20', 'Student'),
-('Dayan', 'Silva', 'dayan.s@stu.edu.lk', '2000-10-31', 'Student'),
-('Chandani', 'Wijeyekoon', 'chandani.w@stu.edu.lk', '2002-03-18', 'Student'),
-('Sunil', 'Ratnayake', 'sunil.r@stu.edu.lk', '2001-11-06', 'Student'),
-('Kusala', 'Wijemanne', 'kusala.w@stu.edu.lk', '2000-05-25', 'Student'),
-('Palitha', 'Samaraweera', 'palitha.s@stu.edu.lk', '2002-09-12', 'Student'),
-('Damayanthi', 'Herath', 'damayanthi.h@stu.edu.lk', '2001-02-28', 'Student'),
-('Indika', 'Gamage', 'indika.g@stu.edu.lk', '2000-07-16', 'Student'),
-('Sujatha', 'Rupasinghe', 'sujatha.r@stu.edu.lk', '2002-04-04', 'Student'),
-('Dammika', 'Gunawardana', 'dammika.g@stu.edu.lk', '2001-12-22', 'Student'),
-('Nayana', 'Ekanayake', 'nayana.e@stu.edu.lk', '2000-03-11', 'Student'),
-('Samudra', 'Weerathunga', 'samudra.w@stu.edu.lk', '2002-10-29', 'Student'),
-('Amara', 'Vithanage', 'amara.v@stu.edu.lk', '2001-08-17', 'Student'),
-('Rohini', 'Dissanayake', 'rohini.d@stu.edu.lk', '2000-01-05', 'Student'),
-('Jayantha', 'Abeygunawardena', 'jayantha.a@stu.edu.lk', '2002-06-23', 'Student'),
-('Chandrika', 'Mendis', 'chandrika.m@stu.edu.lk', '2001-10-10', 'Student'),
-('Bandula', 'Senanayake', 'bandula.s@stu.edu.lk', '2000-04-28', 'Student'),
+('Gamini', 'Wijesundara', 'gamini.w@fot.ruh.ac.lk', '2001-04-16', 'Student'),
+('Sriyani', 'Kodituwakku', 'sriyani.k@fot.ruh.ac.lk', '2000-09-27', 'Student'),
+('Jagath', 'Wimalaweera', 'jagath.w@fot.ruh.ac.lk', '2002-12-09', 'Student'),
+('Kusum', 'Liyanarachchi', 'kusum.l@fot.ruh.ac.lk', '2001-06-20', 'Student'),
+('Dayan', 'Silva', 'dayan.s@fot.ruh.ac.lk', '2000-10-31', 'Student'),
+('Chandani', 'Wijeyekoon', 'chandani.w@fot.ruh.ac.lk', '2002-03-18', 'Student'),
+('Sunil', 'Ratnayake', 'sunil.r@fot.ruh.ac.lk', '2001-11-06', 'Student'),
+('Kusala', 'Wijemanne', 'kusala.w@fot.ruh.ac.lk', '2000-05-25', 'Student'),
+('Palitha', 'Samaraweera', 'palitha.s@fot.ruh.ac.lk', '2002-09-12', 'Student'),
+('Damayanthi', 'Herath', 'damayanthi.h@fot.ruh.ac.lk', '2001-02-28', 'Student'),
+('Indika', 'Gamage', 'indika.g@fot.ruh.ac.lk', '2000-07-16', 'Student'),
+('Sujatha', 'Rupasinghe', 'sujatha.r@fot.ruh.ac.lk', '2002-04-04', 'Student'),
+('Dammika', 'Gunawardana', 'dammika.g@fot.ruh.ac.lk', '2001-12-22', 'Student'),
+('Nayana', 'Ekanayake', 'nayana.e@fot.ruh.ac.lk', '2000-03-11', 'Student'),
+('Samudra', 'Weerathunga', 'samudra.w@fot.ruh.ac.lk', '2002-10-29', 'Student'),
+('Amara', 'Vithanage', 'amara.v@fot.ruh.ac.lk', '2001-08-17', 'Student'),
+('Rohini', 'Dissanayake', 'rohini.d@fot.ruh.ac.lk', '2000-01-05', 'Student'),
+('Jayantha', 'Abeygunawardena', 'jayantha.a@fot.ruh.ac.lk', '2002-06-23', 'Student'),
+('Chandrika', 'Mendis', 'chandrika.m@fot.ruh.ac.lk', '2001-10-10', 'Student'),
+('Bandula', 'Senanayake', 'bandula.s@fot.ruh.ac.lk', '2000-04-28', 'Student'),
 -- Lecturers (61-75) - 15 Lecturers
-('Prof. Nimal', 'Ranasinghe', 'nimal.r@ict.edu.lk', '1965-06-15', 'Lecturer'),
-('Dr. Kamal', 'Perera', 'kamal.p@ict.edu.lk', '1970-09-20', 'Lecturer'),
-('Dr. Shanthi', 'Weerasinghe', 'shanthi.w@ict.edu.lk', '1975-11-10', 'Lecturer'),
-('Mr. Anura', 'Bandara', 'anura.b@ict.edu.lk', '1980-03-25', 'Lecturer'),
-('Ms. Priyanka', 'Ekanayake', 'priyanka.e@ict.edu.lk', '1982-07-14', 'Lecturer'),
-('Dr. Asanka', 'Wijesinghe', 'asanka.w@eng.edu.lk', '1968-08-19', 'Lecturer'),
-('Prof. Sarath', 'Kumara', 'sarath.k@eng.edu.lk', '1972-12-03', 'Lecturer'),
-('Dr. Kumari', 'Navaratne', 'kumari.n@eng.edu.lk', '1977-04-28', 'Lecturer'),
-('Mr. Mahinda', 'Jayasuriya', 'mahinda.j@eng.edu.lk', '1983-09-15', 'Lecturer'),
-('Ms. Pushpa', 'Wijetunge', 'pushpa.w@eng.edu.lk', '1985-01-22', 'Lecturer'),
-('Dr. Upali', 'Gunasekara', 'upali.g@bio.edu.lk', '1969-10-11', 'Lecturer'),
-('Prof. Malini', 'Hettiarachchi', 'malini.h@bio.edu.lk', '1973-06-07', 'Lecturer'),
-('Dr. Ranjith', 'Bandara', 'ranjith.b@bio.edu.lk', '1978-02-19', 'Lecturer'),
-('Ms. Sriyani', 'Perera', 'sriyani.p@bio.edu.lk', '1981-11-30', 'Lecturer'),
-('Mr. Thusitha', 'Wickrama', 'thusitha.w@bio.edu.lk', '1984-07-25', 'Lecturer'),
+('Prof. Nimal', 'Ranasinghe', 'nimal.r@ictec.ruh.ac.lk', '1965-06-15', 'Lecturer'),
+('Dr. Kamal', 'Perera', 'kamal.p@ictec.ruh.ac.lk', '1970-09-20', 'Lecturer'),
+('Dr. Shanthi', 'Weerasinghe', 'shanthi.w@ictec.ruh.ac.lk', '1975-11-10', 'Lecturer'),
+('Mr. Anura', 'Bandara', 'anura.b@ictec.ruh.ac.lk', '1980-03-25', 'Lecturer'),
+('Ms. Priyanka', 'Ekanayake', 'priyanka.e@ictec.ruh.ac.lk', '1982-07-14', 'Lecturer'),
+('Dr. Asanka', 'Wijesinghe', 'asanka.w@etec.ruh.ac.lk', '1968-08-19', 'Lecturer'),
+('Prof. Sarath', 'Kumara', 'sarath.k@etec.ruh.ac.lk', '1972-12-03', 'Lecturer'),
+('Dr. Kumari', 'Navaratne', 'kumari.n@etec.ruh.ac.lk', '1977-04-28', 'Lecturer'),
+('Mr. Mahinda', 'Jayasuriya', 'mahinda.j@etec.ruh.ac.lk', '1983-09-15', 'Lecturer'),
+('Ms. Pushpa', 'Wijetunge', 'pushpa.w@etec.ruh.ac.lk', '1985-01-22', 'Lecturer'),
+('Dr. Upali', 'Gunasekara', 'upali.g@bstec.ruh.ac.lk', '1969-10-11', 'Lecturer'),
+('Prof. Malini', 'Hettiarachchi', 'malini.h@bstec.ruh.ac.lk', '1973-06-07', 'Lecturer'),
+('Dr. Ranjith', 'Bandara', 'ranjith.b@bstec.ruh.ac.lk', '1978-02-19', 'Lecturer'),
+('Ms. Sriyani', 'Perera', 'sriyani.p@bstec.ruh.ac.lk', '1981-11-30', 'Lecturer'),
+('Mr. Thusitha', 'Wickrama', 'thusitha.w@bstec.ruh.ac.lk', '1984-07-25', 'Lecturer'),
 -- Technical Officers (76-77)
 ('Sunil', 'Wijeratne', 'sunil.w@techoffice.edu.lk', '1980-05-18', 'Technical_Officer'),
 ('Kamani', 'Dharmasiri', 'kamani.d@techoffice.edu.lk', '1982-09-22', 'Technical_Officer');
@@ -126,90 +126,90 @@ INSERT INTO Level_Semester (level_id, level_name, sem_id, sem_name, batch_id, se
 
 INSERT INTO Student (user_id, student_reg_no, nic, first_name, last_name, sgpa, cgpa, gender, dob, email, contact_no, home_no, street, town, student_type) VALUES
 -- ICT Department Students (1-20)
-(1, 'ICT/2020/001', '200012345678', 'Amali', 'Perera', 3.45, 3.38, 'Female', '2000-05-12', 'amali.perera@stu.edu.lk', '0712345678', '12/A', 'Main Street', 'Colombo', 'Regular'),
-(2, 'ICT/2020/002', '200112345679', 'Nuwan', 'Bandara', 3.12, 3.05, 'Male', '2001-08-23', 'nuwan.bandara@stu.edu.lk', '0771234567', '45', 'Galle Road', 'Galle', 'Regular'),
-(3, 'ICT/2020/003', '200023456780', 'Tharindu', 'Jayawardena', 2.95, 3.02, 'Male', '2000-11-02', 'tharindu.j@stu.edu.lk', '0752345678', '78/3', 'Kandy Road', 'Kandy', 'Regular'),
-(4, 'ICT/2020/004', '200234567801', 'Dilini', 'Kumari', 3.67, 3.58, 'Female', '2002-01-15', 'dilini.kumari@stu.edu.lk', '0763456789', '23', 'Negombo Road', 'Negombo', 'Regular'),
-(5, 'ICT/2020/005', '200145678902', 'Kasun', 'Liyanage', 2.78, 2.85, 'Male', '2001-07-19', 'kasun.liyanage@stu.edu.lk', '0784567890', '56/2', 'High Level Road', 'Nugegoda', 'Regular'),
-(6, 'ICT/2020/006', '200056789013', 'Chamari', 'Silva', 3.89, 3.75, 'Female', '2000-09-30', 'chamari.silva@stu.edu.lk', '0715678901', '34', 'Station Road', 'Panadura', 'Regular'),
-(7, 'ICT/2021/007', '200167890124', 'Lahiru', 'Fernando', 3.23, 3.18, 'Male', '2001-12-11', 'lahiru.fernando@stu.edu.lk', '0776789012', '89', 'Lake View', 'Kandy', 'Regular'),
-(8, 'ICT/2021/008', '200278901235', 'Madhavi', 'Gunasekara', 3.56, 3.49, 'Female', '2002-04-22', 'madhavi.g@stu.edu.lk', '0757890123', '12', 'Beach Road', 'Galle', 'Regular'),
-(9, 'ICT/2021/009', '200089012346', 'Isuru', 'Rathnayake', 2.88, 2.92, 'Male', '2000-10-05', 'isuru.r@stu.edu.lk', '0768901234', '67/1', 'Temple Road', 'Kurunegala', 'Regular'),
-(10, 'ICT/2021/010', '200190123457', 'Sanduni', 'Wijesinghe', 3.78, 3.65, 'Female', '2001-03-17', 'sanduni.w@stu.edu.lk', '0789012345', '23', 'Colombo Road', 'Ragama', 'Regular'),
-(11, 'ICT/2022/011', '200291234568', 'Pasan', 'Mendis', 3.05, 3.00, 'Male', '2000-06-28', 'pasan.mendis@stu.edu.lk', '0710123456', '45/2', 'Main Road', 'Kalutara', 'Regular'),
-(12, 'ICT/2022/012', '200012345670', 'Nadeesha', 'Abeykoon', 3.34, 3.28, 'Female', '2002-08-14', 'nadeesha.a@stu.edu.lk', '0771234560', '78', 'Church Road', 'Matara', 'Regular'),
-(13, 'ICT/2022/013', '200123456781', 'Ruwan', 'Dissanayake', 2.67, 2.75, 'Male', '2001-01-09', 'ruwan.d@stu.edu.lk', '0752345671', '34/A', 'Hospital Road', 'Anuradhapura', 'Regular'),
-(14, 'ICT/2022/014', '200234567892', 'Thilini', 'Samarawickrama', 3.91, 3.82, 'Female', '2000-12-01', 'thilini.s@stu.edu.lk', '0763456782', '56', 'Park Road', 'Colombo', 'Regular'),
-(15, 'ICT/2023/015', '200345678903', 'Hasitha', 'Wickramasinghe', 3.45, 3.40, 'Male', '2002-05-20', 'hasitha.w@stu.edu.lk', '0784567893', '90/1', 'Lakeside', 'Polonnaruwa', 'Regular'),
-(16, 'ICT/2023/016', '200456789014', 'Oshadi', 'Hettiarachchi', 3.67, 3.55, 'Female', '2001-10-31', 'oshadi.h@stu.edu.lk', '0715678904', '23', 'Hill Street', 'Badulla', 'Regular'),
-(17, 'ICT/2023/017', '200567890125', 'Sachith', 'Ranasinghe', 2.89, 2.95, 'Male', '2000-07-08', 'sachith.r@stu.edu.lk', '0776789015', '12/3', 'New Road', 'Ratnapura', 'Regular'),
-(18, 'ICT/2023/018', '200678901236', 'Aruni', 'Weerasinghe', 3.72, 3.68, 'Female', '2001-04-26', 'aruni.w@stu.edu.lk', '0757890126', '45', 'Station Road', 'Jaffna', 'Regular'),
-(19, 'ICT/2024/019', '200789012347', 'Dhanushka', 'Kaluarachchi', 3.15, 3.08, 'Male', '2002-09-18', 'dhanushka.k@stu.edu.lk', '0768901237', '67', 'Grace Road', 'Kegalle', 'Regular'),
-(20, 'ICT/2024/020', '200890123458', 'Nirosha', 'Jayasuriya', 3.55, 3.48, 'Female', '2000-02-11', 'nirosha.j@stu.edu.lk', '0789012348', '89/2', 'Hill Road', 'Nuwara Eliya', 'Regular'),
+(1, 'TG/2020/001', '200012345678', 'Amali', 'Perera', 3.45, 3.38, 'Female', '2000-05-12', 'amali.perera@fot.ruh.ac.lk', '0712345678', '12/A', 'Main Street', 'Colombo', 'Regular'),
+(2, 'TG/2020/002', '200112345679', 'Nuwan', 'Bandara', 3.12, 3.05, 'Male', '2001-08-23', 'nuwan.bandara@fot.ruh.ac.lk', '0771234567', '45', 'Galle Road', 'Galle', 'Regular'),
+(3, 'TG/2020/003', '200023456780', 'Tharindu', 'Jayawardena', 2.95, 3.02, 'Male', '2000-11-02', 'tharindu.j@fot.ruh.ac.lk', '0752345678', '78/3', 'Kandy Road', 'Kandy', 'Regular'),
+(4, 'TG/2020/004', '200234567801', 'Dilini', 'Kumari', 3.67, 3.58, 'Female', '2002-01-15', 'dilini.kumari@fot.ruh.ac.lk', '0763456789', '23', 'Negombo Road', 'Negombo', 'Regular'),
+(5, 'TG/2020/005', '200145678902', 'Kasun', 'Liyanage', 2.78, 2.85, 'Male', '2001-07-19', 'kasun.liyanage@fot.ruh.ac.lk', '0784567890', '56/2', 'High Level Road', 'Nugegoda', 'Regular'),
+(6, 'TG/2020/006', '200056789013', 'Chamari', 'Silva', 3.89, 3.75, 'Female', '2000-09-30', 'chamari.silva@fot.ruh.ac.lk', '0715678901', '34', 'Station Road', 'Panadura', 'Regular'),
+(7, 'TG/2021/007', '200167890124', 'Lahiru', 'Fernando', 3.23, 3.18, 'Male', '2001-12-11', 'lahiru.fernando@fot.ruh.ac.lk', '0776789012', '89', 'Lake View', 'Kandy', 'Regular'),
+(8, 'TG/2021/008', '200278901235', 'Madhavi', 'Gunasekara', 3.56, 3.49, 'Female', '2002-04-22', 'madhavi.g@fot.ruh.ac.lk', '0757890123', '12', 'Beach Road', 'Galle', 'Regular'),
+(9, 'TG/2021/009', '200089012346', 'Isuru', 'Rathnayake', 2.88, 2.92, 'Male', '2000-10-05', 'isuru.r@fot.ruh.ac.lk', '0768901234', '67/1', 'Temple Road', 'Kurunegala', 'Regular'),
+(10, 'TG/2021/010', '200190123457', 'Sanduni', 'Wijesinghe', 3.78, 3.65, 'Female', '2001-03-17', 'sanduni.w@fot.ruh.ac.lk', '0789012345', '23', 'Colombo Road', 'Ragama', 'Regular'),
+(11, 'TG/2022/011', '200291234568', 'Pasan', 'Mendis', 3.05, 3.00, 'Male', '2000-06-28', 'pasan.mendis@fot.ruh.ac.lk', '0710123456', '45/2', 'Main Road', 'Kalutara', 'Regular'),
+(12, 'TG/2022/012', '200012345670', 'Nadeesha', 'Abeykoon', 3.34, 3.28, 'Female', '2002-08-14', 'nadeesha.a@fot.ruh.ac.lk', '0771234560', '78', 'Church Road', 'Matara', 'Regular'),
+(13, 'TG/2022/013', '200123456781', 'Ruwan', 'Dissanayake', 2.67, 2.75, 'Male', '2001-01-09', 'ruwan.d@fot.ruh.ac.lk', '0752345671', '34/A', 'Hospital Road', 'Anuradhapura', 'Regular'),
+(14, 'TG/2022/014', '200234567892', 'Thilini', 'Samarawickrama', 3.91, 3.82, 'Female', '2000-12-01', 'thilini.s@fot.ruh.ac.lk', '0763456782', '56', 'Park Road', 'Colombo', 'Regular'),
+(15, 'TG/2023/015', '200345678903', 'Hasitha', 'Wickramasinghe', 3.45, 3.40, 'Male', '2002-05-20', 'hasitha.w@fot.ruh.ac.lk', '0784567893', '90/1', 'Lakeside', 'Polonnaruwa', 'Regular'),
+(16, 'TG/2023/016', '200456789014', 'Oshadi', 'Hettiarachchi', 3.67, 3.55, 'Female', '2001-10-31', 'oshadi.h@fot.ruh.ac.lk', '0715678904', '23', 'Hill Street', 'Badulla', 'Regular'),
+(17, 'TG/2023/017', '200567890125', 'Sachith', 'Ranasinghe', 2.89, 2.95, 'Male', '2000-07-08', 'sachith.r@fot.ruh.ac.lk', '0776789015', '12/3', 'New Road', 'Ratnapura', 'Regular'),
+(18, 'TG/2023/018', '200678901236', 'Aruni', 'Weerasinghe', 3.72, 3.68, 'Female', '2001-04-26', 'aruni.w@fot.ruh.ac.lk', '0757890126', '45', 'Station Road', 'Jaffna', 'Regular'),
+(19, 'TG/2024/019', '200789012347', 'Dhanushka', 'Kaluarachchi', 3.15, 3.08, 'Male', '2002-09-18', 'dhanushka.k@fot.ruh.ac.lk', '0768901237', '67', 'Grace Road', 'Kegalle', 'Regular'),
+(20, 'TG/2024/020', '200890123458', 'Nirosha', 'Jayasuriya', 3.55, 3.48, 'Female', '2000-02-11', 'nirosha.j@fot.ruh.ac.lk', '0789012348', '89/2', 'Hill Road', 'Nuwara Eliya', 'Regular'),
 -- Engineering Technology Students (21-40)
-(21, 'ET/2020/001', '200990123469', 'Saman', 'Rajapaksha', 3.28, 3.22, 'Male', '2001-03-14', 'saman.r@stu.edu.lk', '0712345690', '23', 'Main Street', 'Gampaha', 'Regular'),
-(22, 'ET/2020/002', '201001234570', 'Kumudini', 'Wimalasena', 3.63, 3.55, 'Female', '2000-07-22', 'kumudini.w@stu.edu.lk', '0771234501', '56', 'Lake Road', 'Kandy', 'Regular'),
-(23, 'ET/2020/003', '200112345682', 'Rohan', 'Dharmasiri', 2.92, 2.88, 'Male', '2002-11-30', 'rohan.d@stu.edu.lk', '0752345612', '78/4', 'Beach Road', 'Bentota', 'Regular'),
-(24, 'ET/2020/004', '200223456793', 'Chinthaka', 'Abeywardena', 3.41, 3.35, 'Male', '2001-05-18', 'chinthaka.a@stu.edu.lk', '0763456723', '34', 'Temple Road', 'Matale', 'Regular'),
-(25, 'ET/2020/005', '200334567804', 'Deepika', 'Jayaweera', 3.87, 3.78, 'Female', '2000-09-09', 'deepika.j@stu.edu.lk', '0784567834', '12', 'Park Avenue', 'Colombo', 'Regular'),
-(26, 'ET/2021/006', '200445678915', 'Mahinda', 'Siriwardena', 2.76, 2.82, 'Male', '2002-01-27', 'mahinda.s@stu.edu.lk', '0715678945', '89', 'High Street', 'Kurunegala', 'Regular'),
-(27, 'ET/2021/007', '200556789026', 'Kamal', 'Gunawardena', 3.19, 3.12, 'Male', '2001-12-05', 'kamal.g@stu.edu.lk', '0776789056', '45/1', 'Station Road', 'Negombo', 'Regular'),
-(28, 'ET/2021/008', '200667890137', 'Anoma', 'Hettiarachchi', 3.74, 3.68, 'Female', '2000-04-13', 'anoma.h@stu.edu.lk', '0757890167', '67', 'Church Street', 'Galle', 'Regular'),
-(29, 'ET/2021/009', '200778901248', 'Priyantha', 'Wickramaratne', 2.98, 3.02, 'Male', '2002-08-19', 'priyantha.w@stu.edu.lk', '0768901278', '23/A', 'Main Road', 'Panadura', 'Regular'),
-(30, 'ET/2021/010', '200889012359', 'Champa', 'Bandaranayake', 3.82, 3.71, 'Female', '2001-10-07', 'champa.b@stu.edu.lk', '0789012389', '56/2', 'Lake View', 'Polonnaruwa', 'Regular'),
-(31, 'ET/2022/011', '200990123460', 'Lalith', 'Samarasinghe', 3.07, 3.00, 'Male', '2000-06-25', 'lalith.s@stu.edu.lk', '0712345601', '90', 'Hill Street', 'Badulla', 'Regular'),
-(32, 'ET/2022/012', '201001234571', 'Nimali', 'Kularatne', 3.52, 3.46, 'Female', '2002-02-14', 'nimali.k@stu.edu.lk', '0771234512', '12/5', 'Grace Road', 'Kegalle', 'Regular'),
-(33, 'ET/2022/013', '200112345683', 'Upul', 'Rathnayake', 2.84, 2.90, 'Male', '2001-09-03', 'upul.r@stu.edu.lk', '0752345623', '45', 'Hospital Road', 'Ratnapura', 'Regular'),
-(34, 'ET/2022/014', '200223456794', 'Shyama', 'Peris', 3.93, 3.85, 'Female', '2000-11-21', 'shyama.p@stu.edu.lk', '0763456734', '78', 'New Street', 'Jaffna', 'Regular'),
-(35, 'ET/2023/015', '200334567805', 'Ajith', 'Weerakkody', 3.25, 3.18, 'Male', '2002-03-10', 'ajith.w@stu.edu.lk', '0784567845', '34/2', 'Queens Road', 'Colombo', 'Regular'),
-(36, 'ET/2023/016', '200445678916', 'Mala', 'Fernandopulle', 3.68, 3.60, 'Female', '2001-07-28', 'mala.f@stu.edu.lk', '0715678956', '56', 'Kings Street', 'Kandy', 'Regular'),
-(37, 'ET/2023/017', '200556789027', 'Harsha', 'Wijewardena', 2.71, 2.78, 'Male', '2000-12-16', 'harsha.w@stu.edu.lk', '0776789067', '23/1', 'College Road', 'Galle', 'Regular'),
-(38, 'ET/2023/018', '200667890138', 'Kanchana', 'Dissanayake', 3.45, 3.38, 'Female', '2002-05-04', 'kanchana.d@stu.edu.lk', '0757890178', '90', 'Garden Road', 'Anuradhapura', 'Regular'),
-(39, 'ET/2024/019', '200778901249', 'Anura', 'Senaratne', 3.12, 3.05, 'Male', '2001-01-22', 'anura.s@stu.edu.lk', '0768901289', '12/A', 'Park Lane', 'Matara', 'Regular'),
-(40, 'ET/2024/020', '200889012360', 'Renuka', 'Weerasinghe', 3.77, 3.69, 'Female', '2000-08-11', 'renuka.w@stu.edu.lk', '0789012390', '45/3', 'Lake Drive', 'Trincomalee', 'Regular'),
+(21, 'TG/2020/001', '200990123469', 'Saman', 'Rajapaksha', 3.28, 3.22, 'Male', '2001-03-14', 'saman.r@fot.ruh.ac.lk', '0712345690', '23', 'Main Street', 'Gampaha', 'Regular'),
+(22, 'TG/2020/002', '201001234570', 'Kumudini', 'Wimalasena', 3.63, 3.55, 'Female', '2000-07-22', 'kumudini.w@fot.ruh.ac.lk', '0771234501', '56', 'Lake Road', 'Kandy', 'Regular'),
+(23, 'TG/2020/003', '200112345682', 'Rohan', 'Dharmasiri', 2.92, 2.88, 'Male', '2002-11-30', 'rohan.d@fot.ruh.ac.lk', '0752345612', '78/4', 'Beach Road', 'Bentota', 'Regular'),
+(24, 'TG/2020/004', '200223456793', 'Chinthaka', 'Abeywardena', 3.41, 3.35, 'Male', '2001-05-18', 'chinthaka.a@fot.ruh.ac.lk', '0763456723', '34', 'Temple Road', 'Matale', 'Regular'),
+(25, 'TG/2020/005', '200334567804', 'Deepika', 'Jayaweera', 3.87, 3.78, 'Female', '2000-09-09', 'deepika.j@fot.ruh.ac.lk', '0784567834', '12', 'Park Avenue', 'Colombo', 'Regular'),
+(26, 'TG/2021/006', '200445678915', 'Mahinda', 'Siriwardena', 2.76, 2.82, 'Male', '2002-01-27', 'mahinda.s@fot.ruh.ac.lk', '0715678945', '89', 'High Street', 'Kurunegala', 'Regular'),
+(27, 'TG/2021/007', '200556789026', 'Kamal', 'Gunawardena', 3.19, 3.12, 'Male', '2001-12-05', 'kamal.g@fot.ruh.ac.lk', '0776789056', '45/1', 'Station Road', 'Negombo', 'Regular'),
+(28, 'TG/2021/008', '200667890137', 'Anoma', 'Hettiarachchi', 3.74, 3.68, 'Female', '2000-04-13', 'anoma.h@fot.ruh.ac.lk', '0757890167', '67', 'Church Street', 'Galle', 'Regular'),
+(29, 'TG/2021/009', '200778901248', 'Priyantha', 'Wickramaratne', 2.98, 3.02, 'Male', '2002-08-19', 'priyantha.w@fot.ruh.ac.lk', '0768901278', '23/A', 'Main Road', 'Panadura', 'Regular'),
+(30, 'TG/2021/010', '200889012359', 'Champa', 'Bandaranayake', 3.82, 3.71, 'Female', '2001-10-07', 'champa.b@fot.ruh.ac.lk', '0789012389', '56/2', 'Lake View', 'Polonnaruwa', 'Regular'),
+(31, 'TG/2022/011', '200990123460', 'Lalith', 'Samarasinghe', 3.07, 3.00, 'Male', '2000-06-25', 'lalith.s@fot.ruh.ac.lk', '0712345601', '90', 'Hill Street', 'Badulla', 'Regular'),
+(32, 'TG/2022/012', '201001234571', 'Nimali', 'Kularatne', 3.52, 3.46, 'Female', '2002-02-14', 'nimali.k@fot.ruh.ac.lk', '0771234512', '12/5', 'Grace Road', 'Kegalle', 'Regular'),
+(33, 'TG/2022/013', '200112345683', 'Upul', 'Rathnayake', 2.84, 2.90, 'Male', '2001-09-03', 'upul.r@fot.ruh.ac.lk', '0752345623', '45', 'Hospital Road', 'Ratnapura', 'Regular'),
+(34, 'TG/2022/014', '200223456794', 'Shyama', 'Peris', 3.93, 3.85, 'Female', '2000-11-21', 'shyama.p@fot.ruh.ac.lk', '0763456734', '78', 'New Street', 'Jaffna', 'Regular'),
+(35, 'TG/2023/015', '200334567805', 'Ajith', 'Weerakkody', 3.25, 3.18, 'Male', '2002-03-10', 'ajith.w@fot.ruh.ac.lk', '0784567845', '34/2', 'Queens Road', 'Colombo', 'Regular'),
+(36, 'TG/2023/016', '200445678916', 'Mala', 'Fernandopulle', 3.68, 3.60, 'Female', '2001-07-28', 'mala.f@fot.ruh.ac.lk', '0715678956', '56', 'Kings Street', 'Kandy', 'Regular'),
+(37, 'TG/2023/017', '200556789027', 'Harsha', 'Wijewardena', 2.71, 2.78, 'Male', '2000-12-16', 'harsha.w@fot.ruh.ac.lk', '0776789067', '23/1', 'College Road', 'Galle', 'Regular'),
+(38, 'TG/2023/018', '200667890138', 'Kanchana', 'Dissanayake', 3.45, 3.38, 'Female', '2002-05-04', 'kanchana.d@fot.ruh.ac.lk', '0757890178', '90', 'Garden Road', 'Anuradhapura', 'Regular'),
+(39, 'TG/2024/019', '200778901249', 'Anura', 'Senaratne', 3.12, 3.05, 'Male', '2001-01-22', 'anura.s@fot.ruh.ac.lk', '0768901289', '12/A', 'Park Lane', 'Matara', 'Regular'),
+(40, 'TG/2024/020', '200889012360', 'Renuka', 'Weerasinghe', 3.77, 3.69, 'Female', '2000-08-11', 'renuka.w@fot.ruh.ac.lk', '0789012390', '45/3', 'Lake Drive', 'Trincomalee', 'Regular'),
 -- Biosystems Technology Students (41-60)
-(41, 'BST/2020/001', '200990123461', 'Gamini', 'Wijesundara', 3.32, 3.26, 'Male', '2001-04-16', 'gamini.w@stu.edu.lk', '0712345602', '67', 'Main Street', 'Kurunegala', 'Regular'),
-(42, 'BST/2020/002', '201001234572', 'Sriyani', 'Kodituwakku', 3.71, 3.64, 'Female', '2000-09-27', 'sriyani.k@stu.edu.lk', '0771234513', '23', 'Temple Road', 'Kandy', 'Regular'),
-(43, 'BST/2020/003', '200112345684', 'Jagath', 'Wimalaweera', 2.89, 2.94, 'Male', '2002-12-09', 'jagath.w@stu.edu.lk', '0752345624', '89/1', 'Beach Road', 'Matara', 'Regular'),
-(44, 'BST/2020/004', '200223456795', 'Kusum', 'Liyanarachchi', 3.48, 3.42, 'Female', '2001-06-20', 'kusum.l@stu.edu.lk', '0763456735', '34', 'Lake Road', 'Galle', 'Regular'),
-(45, 'BST/2020/005', '200334567806', 'Dayan', 'Silva', 3.85, 3.76, 'Male', '2000-10-31', 'dayan.s@stu.edu.lk', '0784567846', '56/2', 'Hospital Road', 'Colombo', 'Regular'),
-(46, 'BST/2021/006', '200445678917', 'Chandani', 'Wijeyekoon', 2.95, 3.00, 'Female', '2002-03-18', 'chandani.w@stu.edu.lk', '0715678957', '78', 'Station Road', 'Negombo', 'Regular'),
-(47, 'BST/2021/007', '200556789028', 'Sunil', 'Ratnayake', 3.24, 3.18, 'Male', '2001-11-06', 'sunil.r@stu.edu.lk', '0776789068', '12/4', 'High Level Road', 'Nugegoda', 'Regular'),
-(48, 'BST/2021/008', '200667890139', 'Kusala', 'Wijemanne', 3.62, 3.55, 'Female', '2000-05-25', 'kusala.w@stu.edu.lk', '0757890179', '45', 'Park Avenue', 'Ragama', 'Regular'),
-(49, 'BST/2021/009', '200778901250', 'Palitha', 'Samaraweera', 2.86, 2.91, 'Male', '2002-09-12', 'palitha.s@stu.edu.lk', '0768901290', '90/3', 'Church Road', 'Kalutara', 'Regular'),
-(50, 'BST/2021/010', '200889012361', 'Damayanthi', 'Herath', 3.94, 3.87, 'Female', '2001-02-28', 'damayanthi.h@stu.edu.lk', '0789012391', '23', 'College Street', 'Badulla', 'Regular'),
-(51, 'BST/2022/011', '200990123462', 'Indika', 'Gamage', 3.02, 2.98, 'Male', '2000-07-16', 'indika.g@stu.edu.lk', '0712345603', '56', 'Main Road', 'Polonnaruwa', 'Regular'),
-(52, 'BST/2022/012', '201001234573', 'Sujatha', 'Rupasinghe', 3.57, 3.51, 'Female', '2002-04-04', 'sujatha.r@stu.edu.lk', '0771234514', '78/2', 'Lake View', 'Anuradhapura', 'Regular'),
-(53, 'BST/2022/013', '200112345685', 'Dammika', 'Gunawardana', 2.80, 2.86, 'Male', '2001-12-22', 'dammika.g@stu.edu.lk', '0752345625', '34/A', 'Grace Road', 'Kegalle', 'Regular'),
-(54, 'BST/2022/014', '200223456796', 'Nayana', 'Ekanayake', 3.88, 3.80, 'Female', '2000-03-11', 'nayana.e@stu.edu.lk', '0763456736', '67', 'Hill Street', 'Nuwara Eliya', 'Regular'),
-(55, 'BST/2023/015', '200334567807', 'Samudra', 'Weerathunga', 3.33, 3.27, 'Male', '2002-10-29', 'samudra.w@stu.edu.lk', '0784567847', '12', 'Queens Road', 'Gampaha', 'Regular'),
-(56, 'BST/2023/016', '200445678918', 'Amara', 'Vithanage', 3.70, 3.63, 'Female', '2001-08-17', 'amara.v@stu.edu.lk', '0715678958', '45/1', 'Kings Street', 'Kandy', 'Regular'),
-(57, 'BST/2023/017', '200556789029', 'Rohini', 'Dissanayake', 3.25, 3.20, 'Female', '2000-01-05', 'rohini.d@stu.edu.lk', '0776789069', '89', 'Beach Road', 'Bentota', 'Regular'),
-(58, 'BST/2023/018', '200667890140', 'Jayantha', 'Abeygunawardena', 2.94, 2.99, 'Male', '2002-06-23', 'jayantha.a@stu.edu.lk', '0757890180', '23/2', 'Temple Road', 'Matale', 'Regular'),
-(59, 'BST/2024/019', '200778901251', 'Chandrika', 'Mendis', 3.42, 3.36, 'Female', '2001-10-10', 'chandrika.m@stu.edu.lk', '0768901291', '56', 'Park Lane', 'Jaffna', 'Regular'),
-(60, 'BST/2024/020', '200889012362', 'Bandula', 'Senanayake', 3.15, 3.08, 'Male', '2000-04-28', 'bandula.s@stu.edu.lk', '0789012392', '78/4', 'Lake Drive', 'Trincomalee', 'Regular');
+(41, 'TG/2020/001', '200990123461', 'Gamini', 'Wijesundara', 3.32, 3.26, 'Male', '2001-04-16', 'gamini.w@fot.ruh.ac.lk', '0712345602', '67', 'Main Street', 'Kurunegala', 'Regular'),
+(42, 'TG/2020/002', '201001234572', 'Sriyani', 'Kodituwakku', 3.71, 3.64, 'Female', '2000-09-27', 'sriyani.k@fot.ruh.ac.lk', '0771234513', '23', 'Temple Road', 'Kandy', 'Regular'),
+(43, 'TG/2020/003', '200112345684', 'Jagath', 'Wimalaweera', 2.89, 2.94, 'Male', '2002-12-09', 'jagath.w@fot.ruh.ac.lk', '0752345624', '89/1', 'Beach Road', 'Matara', 'Regular'),
+(44, 'TG/2020/004', '200223456795', 'Kusum', 'Liyanarachchi', 3.48, 3.42, 'Female', '2001-06-20', 'kusum.l@fot.ruh.ac.lk', '0763456735', '34', 'Lake Road', 'Galle', 'Regular'),
+(45, 'TG/2020/005', '200334567806', 'Dayan', 'Silva', 3.85, 3.76, 'Male', '2000-10-31', 'dayan.s@fot.ruh.ac.lk', '0784567846', '56/2', 'Hospital Road', 'Colombo', 'Regular'),
+(46, 'TG/2021/006', '200445678917', 'Chandani', 'Wijeyekoon', 2.95, 3.00, 'Female', '2002-03-18', 'chandani.w@fot.ruh.ac.lk', '0715678957', '78', 'Station Road', 'Negombo', 'Regular'),
+(47, 'TG/2021/007', '200556789028', 'Sunil', 'Ratnayake', 3.24, 3.18, 'Male', '2001-11-06', 'sunil.r@fot.ruh.ac.lk', '0776789068', '12/4', 'High Level Road', 'Nugegoda', 'Regular'),
+(48, 'TG/2021/008', '200667890139', 'Kusala', 'Wijemanne', 3.62, 3.55, 'Female', '2000-05-25', 'kusala.w@fot.ruh.ac.lk', '0757890179', '45', 'Park Avenue', 'Ragama', 'Regular'),
+(49, 'TG/2021/009', '200778901250', 'Palitha', 'Samaraweera', 2.86, 2.91, 'Male', '2002-09-12', 'palitha.s@fot.ruh.ac.lk', '0768901290', '90/3', 'Church Road', 'Kalutara', 'Regular'),
+(50, 'TG/2021/010', '200889012361', 'Damayanthi', 'Herath', 3.94, 3.87, 'Female', '2001-02-28', 'damayanthi.h@fot.ruh.ac.lk', '0789012391', '23', 'College Street', 'Badulla', 'Regular'),
+(51, 'TG/2022/011', '200990123462', 'Indika', 'Gamage', 3.02, 2.98, 'Male', '2000-07-16', 'indika.g@fot.ruh.ac.lk', '0712345603', '56', 'Main Road', 'Polonnaruwa', 'Regular'),
+(52, 'TG/2022/012', '201001234573', 'Sujatha', 'Rupasinghe', 3.57, 3.51, 'Female', '2002-04-04', 'sujatha.r@fot.ruh.ac.lk', '0771234514', '78/2', 'Lake View', 'Anuradhapura', 'Regular'),
+(53, 'TG/2022/013', '200112345685', 'Dammika', 'Gunawardana', 2.80, 2.86, 'Male', '2001-12-22', 'dammika.g@fot.ruh.ac.lk', '0752345625', '34/A', 'Grace Road', 'Kegalle', 'Regular'),
+(54, 'TG/2022/014', '200223456796', 'Nayana', 'Ekanayake', 3.88, 3.80, 'Female', '2000-03-11', 'nayana.e@fot.ruh.ac.lk', '0763456736', '67', 'Hill Street', 'Nuwara Eliya', 'Regular'),
+(55, 'TG/2023/015', '200334567807', 'Samudra', 'Weerathunga', 3.33, 3.27, 'Male', '2002-10-29', 'samudra.w@fot.ruh.ac.lk', '0784567847', '12', 'Queens Road', 'Gampaha', 'Regular'),
+(56, 'TG/2023/016', '200445678918', 'Amara', 'Vithanage', 3.70, 3.63, 'Female', '2001-08-17', 'amara.v@fot.ruh.ac.lk', '0715678958', '45/1', 'Kings Street', 'Kandy', 'Regular'),
+(57, 'TG/2023/017', '200556789029', 'Rohini', 'Dissanayake', 3.25, 3.20, 'Female', '2000-01-05', 'rohini.d@fot.ruh.ac.lk', '0776789069', '89', 'Beach Road', 'Bentota', 'Regular'),
+(58, 'TG/2023/018', '200667890140', 'Jayantha', 'Abeygunawardena', 2.94, 2.99, 'Male', '2002-06-23', 'jayantha.a@fot.ruh.ac.lk', '0757890180', '23/2', 'Temple Road', 'Matale', 'Regular'),
+(59, 'TG/2024/019', '200778901251', 'Chandrika', 'Mendis', 3.42, 3.36, 'Female', '2001-10-10', 'chandrika.m@fot.ruh.ac.lk', '0768901291', '56', 'Park Lane', 'Jaffna', 'Regular'),
+(60, 'TG/2024/020', '200889012362', 'Bandula', 'Senanayake', 3.15, 3.08, 'Male', '2000-04-28', 'bandula.s@fot.ruh.ac.lk', '0789012392', '78/4', 'Lake Drive', 'Trincomalee', 'Regular');
 
 
 
 INSERT INTO Lecture (user_id, dep_id, lec_reg_no, lec_name, lec_nic, lec_dob, contact_no, home_no, street, town, lec_position, gender, email) VALUES
 -- ICT Department (dep_id=1)
-(61, 1, 'LEC/ICT/001', 'Prof. Nimal Ranasinghe', '196512345678', '1965-06-15', '0771234501', '12/A', 'Main Street', 'Colombo', 'Senior Professor', 'Male', 'nimal.r@ict.edu.lk'),
-(62, 1, 'LEC/ICT/002', 'Dr. Kamal Perera', '197012345679', '1970-09-20', '0772234502', '34', 'Galle Road', 'Colombo', 'Senior Lecturer', 'Male', 'kamal.p@ict.edu.lk'),
-(63, 1, 'LEC/ICT/003', 'Dr. Shanthi Weerasinghe', '197512345680', '1975-11-10', '0773234503', '56', 'Kandy Road', 'Kandy', 'Senior Lecturer', 'Female', 'shanthi.w@ict.edu.lk'),
-(64, 1, 'LEC/ICT/004', 'Mr. Anura Bandara', '198012345681', '1980-03-25', '0774234504', '78', 'Negombo Road', 'Negombo', 'Lecturer', 'Male', 'anura.b@ict.edu.lk'),
-(65, 1, 'LEC/ICT/005', 'Ms. Priyanka Ekanayake', '198212345682', '1982-07-14', '0775234505', '90', 'High Level Road', 'Nugegoda', 'Lecturer', 'Female', 'priyanka.e@ict.edu.lk'),
+(61, 1, 'LEC/ICT/001', 'Prof. Nimal Ranasinghe', '196512345678', '1965-06-15', '0771234501', '12/A', 'Main Street', 'Colombo', 'Senior Professor', 'Male', 'nimal.r@ictec.ruh.ac.lk'),
+(62, 1, 'LEC/ICT/002', 'Dr. Kamal Perera', '197012345679', '1970-09-20', '0772234502', '34', 'Galle Road', 'Colombo', 'Senior Lecturer', 'Male', 'kamal.p@ictec.ruh.ac.lk'),
+(63, 1, 'LEC/ICT/003', 'Dr. Shanthi Weerasinghe', '197512345680', '1975-11-10', '0773234503', '56', 'Kandy Road', 'Kandy', 'Senior Lecturer', 'Female', 'shanthi.w@ictec.ruh.ac.lk'),
+(64, 1, 'LEC/ICT/004', 'Mr. Anura Bandara', '198012345681', '1980-03-25', '0774234504', '78', 'Negombo Road', 'Negombo', 'Lecturer', 'Male', 'anura.b@ictec.ruh.ac.lk'),
+(65, 1, 'LEC/ICT/005', 'Ms. Priyanka Ekanayake', '198212345682', '1982-07-14', '0775234505', '90', 'High Level Road', 'Nugegoda', 'Lecturer', 'Female', 'priyanka.e@ictec.ruh.ac.lk'),
 -- Engineering Technology Department (dep_id=2)
-(66, 2, 'LEC/ET/001', 'Dr. Asanka Wijesinghe', '196812345683', '1968-08-19', '0776234506', '23', 'Lake View', 'Kandy', 'Senior Lecturer', 'Male', 'asanka.w@eng.edu.lk'),
-(67, 2, 'LEC/ET/002', 'Prof. Sarath Kumara', '197212345684', '1972-12-03', '0777234507', '45', 'Station Road', 'Colombo', 'Professor', 'Male', 'sarath.k@eng.edu.lk'),
-(68, 2, 'LEC/ET/003', 'Dr. Kumari Navaratne', '197712345685', '1977-04-28', '0778234508', '67', 'Beach Road', 'Galle', 'Senior Lecturer', 'Female', 'kumari.n@eng.edu.lk'),
-(69, 2, 'LEC/ET/004', 'Mr. Mahinda Jayasuriya', '198312345686', '1983-09-15', '0779234509', '89', 'Temple Road', 'Kurunegala', 'Lecturer', 'Male', 'mahinda.j@eng.edu.lk'),
-(70, 2, 'LEC/ET/005', 'Ms. Pushpa Wijetunge', '198512345687', '1985-01-22', '0780234510', '12', 'Park Avenue', 'Matara', 'Lecturer', 'Female', 'pushpa.w@eng.edu.lk'),
+(66, 2, 'LEC/ET/001', 'Dr. Asanka Wijesinghe', '196812345683', '1968-08-19', '0776234506', '23', 'Lake View', 'Kandy', 'Senior Lecturer', 'Male', 'asanka.w@etec.ruh.ac.lk'),
+(67, 2, 'LEC/ET/002', 'Prof. Sarath Kumara', '197212345684', '1972-12-03', '0777234507', '45', 'Station Road', 'Colombo', 'Professor', 'Male', 'sarath.k@etec.ruh.ac.lk'),
+(68, 2, 'LEC/ET/003', 'Dr. Kumari Navaratne', '197712345685', '1977-04-28', '0778234508', '67', 'Beach Road', 'Galle', 'Senior Lecturer', 'Female', 'kumari.n@etec.ruh.ac.lk'),
+(69, 2, 'LEC/ET/004', 'Mr. Mahinda Jayasuriya', '198312345686', '1983-09-15', '0779234509', '89', 'Temple Road', 'Kurunegala', 'Lecturer', 'Male', 'mahinda.j@etec.ruh.ac.lk'),
+(70, 2, 'LEC/ET/005', 'Ms. Pushpa Wijetunge', '198512345687', '1985-01-22', '0780234510', '12', 'Park Avenue', 'Matara', 'Lecturer', 'Female', 'pushpa.w@etec.ruh.ac.lk'),
 -- Biosystems Technology Department (dep_id=3)
-(71, 3, 'LEC/BST/001', 'Dr. Upali Gunasekara', '196912345688', '1969-10-11', '0781234511', '34/A', 'Hill Street', 'Badulla', 'Senior Lecturer', 'Male', 'upali.g@bio.edu.lk'),
-(72, 3, 'LEC/BST/002', 'Prof. Malini Hettiarachchi', '197312345689', '1973-06-07', '0782234512', '56', 'Lake Road', 'Polonnaruwa', 'Professor', 'Female', 'malini.h@bio.edu.lk'),
-(73, 3, 'LEC/BST/003', 'Dr. Ranjith Bandara', '197812345690', '1978-02-19', '0783234513', '78', 'Main Road', 'Ratnapura', 'Senior Lecturer', 'Male', 'ranjith.b@bio.edu.lk'),
-(74, 3, 'LEC/BST/004', 'Ms. Sriyani Perera', '198112345691', '1981-11-30', '0784234514', '90', 'College Road', 'Gampaha', 'Lecturer', 'Female', 'sriyani.p@bio.edu.lk'),
-(75, 3, 'LEC/BST/005', 'Mr. Thusitha Wickrama', '198412345692', '1984-07-25', '0785234515', '23/1', 'Kings Street', 'Kandy', 'Lecturer', 'Male', 'thusitha.w@bio.edu.lk');
+(71, 3, 'LEC/BST/001', 'Dr. Upali Gunasekara', '196912345688', '1969-10-11', '0781234511', '34/A', 'Hill Street', 'Badulla', 'Senior Lecturer', 'Male', 'upali.g@bstec.ruh.ac.lk'),
+(72, 3, 'LEC/BST/002', 'Prof. Malini Hettiarachchi', '197312345689', '1973-06-07', '0782234512', '56', 'Lake Road', 'Polonnaruwa', 'Professor', 'Female', 'malini.h@bstec.ruh.ac.lk'),
+(73, 3, 'LEC/BST/003', 'Dr. Ranjith Bandara', '197812345690', '1978-02-19', '0783234513', '78', 'Main Road', 'Ratnapura', 'Senior Lecturer', 'Male', 'ranjith.b@bstec.ruh.ac.lk'),
+(74, 3, 'LEC/BST/004', 'Ms. Sriyani Perera', '198112345691', '1981-11-30', '0784234514', '90', 'College Road', 'Gampaha', 'Lecturer', 'Female', 'sriyani.p@bstec.ruh.ac.lk'),
+(75, 3, 'LEC/BST/005', 'Mr. Thusitha Wickrama', '198412345692', '1984-07-25', '0785234515', '23/1', 'Kings Street', 'Kandy', 'Lecturer', 'Male', 'thusitha.w@bstec.ruh.ac.lk');
 
 
 
@@ -916,8 +916,12 @@ INSERT INTO Attendance_Record (student_id, session_id, medical_id, attendance) V
 (60, 43, NULL, 'Absent'), (60, 44, NULL, 'Present'), (60, 45, NULL, 'Present');
 
 
+
+
 INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, quiz03_marks, assignment01_marks, assignment02_marks, mid_exam_theory_marks, mid_exam_practical_marks, ca_result, end_exam_theory_marks, end_exam_practical_marks, end_exam_result, total_result, grade) VALUES
--- ICT Department Students (1-20) with their enrolled courses
+-- ========================================
+-- ICT DEPARTMENT STUDENTS (1-20)
+-- ========================================
 -- Student 1 (High performer)
 (1, 1, 8.5, 9.0, 8.0, 15.0, 14.5, 25.0, NULL, 80.0, 85.0, NULL, 85.0, 82.5, 'A'),
 (1, 2, 7.5, 8.0, 7.5, 14.0, 13.5, 22.0, NULL, 72.5, 78.0, NULL, 78.0, 75.3, 'B+'),
@@ -925,6 +929,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (1, 4, 6.5, 7.0, 6.0, 12.0, 11.5, 20.0, NULL, 63.0, 65.0, NULL, 65.0, 64.0, 'B'),
 (1, 5, 8.0, 8.5, 7.0, 14.0, 13.0, 24.0, NULL, 74.5, 80.0, NULL, 80.0, 77.3, 'B+'),
 (1, 6, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 70.0, 75.0, 72.0, 73.5, 71.8, 'B'),
+
 -- Student 2 (Medium performer)
 (2, 1, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 70.0, NULL, 70.0, 68.5, 'B'),
 (2, 2, 6.0, 6.5, 5.5, 11.0, 10.5, 18.0, NULL, 57.5, 60.0, NULL, 60.0, 58.8, 'C+'),
@@ -932,6 +937,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (2, 4, 7.5, 8.0, 7.0, 14.0, 12.5, 23.0, NULL, 72.0, 75.0, NULL, 75.0, 73.5, 'B+'),
 (2, 5, 5.5, 6.0, 5.0, 10.0, 9.5, 17.0, NULL, 53.0, 55.0, NULL, 55.0, 54.0, 'C'),
 (2, 7, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 80.0, 78.0, 79.0, 79.0, 'B+'),
+
 -- Student 3 (Low performer)
 (3, 1, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, NULL, 51.5, 52.0, NULL, 52.0, 51.8, 'C'),
 (3, 2, 4.5, 5.0, 4.0, 9.0, 8.0, 14.0, NULL, 44.5, 48.0, NULL, 48.0, 46.3, 'C-'),
@@ -939,6 +945,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (3, 4, 5.0, 5.5, 4.5, 9.5, 8.5, 15.0, NULL, 48.0, 50.0, NULL, 50.0, 49.0, 'C'),
 (3, 6, 6.5, 7.0, 6.0, 12.0, 10.5, 19.0, 18.0, 63.0, 65.0, 62.0, 63.5, 63.3, 'B-'),
 (3, 8, 7.0, 7.5, 6.5, 13.0, 11.5, 20.0, 19.0, 67.5, 70.0, 68.0, 69.0, 68.3, 'B'),
+
 -- Student 4 (Excellent performer)
 (4, 1, 9.0, 9.5, 8.5, 16.0, 15.5, 27.0, NULL, 85.5, 90.0, NULL, 90.0, 87.8, 'A'),
 (4, 2, 8.5, 9.0, 8.0, 15.0, 14.5, 25.0, NULL, 80.0, 85.0, NULL, 85.0, 82.5, 'A'),
@@ -946,6 +953,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (4, 5, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, NULL, 75.0, 82.0, NULL, 82.0, 78.5, 'B+'),
 (4, 7, 9.0, 9.5, 8.5, 16.0, 14.5, 26.0, 25.0, 88.5, 88.0, 86.0, 87.0, 87.8, 'A'),
 (4, 9, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 85.0, 82.0, 83.5, 81.3, 'A-'),
+
 -- Student 5 (Poor performer, medical leave)
 (5, 1, 4.0, 4.5, 3.5, 8.0, 7.0, 12.0, NULL, 39.0, 40.0, NULL, 40.0, 39.5, 'D+'),
 (5, 2, 3.5, 4.0, 3.0, 7.0, 6.5, 10.0, NULL, 34.0, 35.0, NULL, 35.0, 34.5, 'D'),
@@ -953,6 +961,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (5, 4, 4.5, 5.0, 4.0, 8.5, 7.5, 13.0, NULL, 42.5, 45.0, NULL, 45.0, 43.8, 'C-'),
 (5, 6, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 56.5, 58.0, 55.0, 56.5, 56.5, 'C+'),
 (5, 10, 6.0, 6.5, 5.5, 11.0, 10.0, 17.0, 16.0, 62.0, 60.0, 58.0, 59.0, 60.5, 'B-'),
+
 -- Student 6 (Good performer)
 (6, 1, 8.0, 8.5, 7.5, 14.0, 13.0, 23.0, NULL, 74.0, 78.0, NULL, 78.0, 76.0, 'B+'),
 (6, 2, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 72.0, NULL, 72.0, 69.5, 'B'),
@@ -960,6 +969,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (6, 4, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, NULL, 71.0, 74.0, NULL, 74.0, 72.5, 'B+'),
 (6, 5, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 80.0, NULL, 80.0, 78.0, 'B+'),
 (6, 8, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.5, 70.0, 68.0, 69.0, 68.3, 'B'),
+
 -- Student 7
 (7, 2, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 64.0, NULL, 64.0, 62.8, 'B-'),
 (7, 3, 7.5, 8.0, 7.0, 13.5, 12.5, 22.0, 20.0, 70.5, 74.0, 72.0, 73.0, 71.8, 'B'),
@@ -967,6 +977,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (7, 5, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, NULL, 66.0, 70.0, NULL, 70.0, 68.0, 'B'),
 (7, 6, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 75.0, 73.0, 74.0, 73.0, 'B+'),
 (7, 9, 8.0, 8.5, 7.5, 14.5, 13.5, 23.0, 22.0, 77.0, 80.0, 78.0, 79.0, 78.0, 'B+'),
+
 -- Student 8 (Excellent)
 (8, 1, 9.0, 9.5, 8.5, 16.0, 15.0, 28.0, NULL, 86.0, 92.0, NULL, 92.0, 89.0, 'A'),
 (8, 3, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 88.0, 85.0, 86.5, 86.0, 'A'),
@@ -974,6 +985,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (8, 5, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, NULL, 72.5, 78.0, NULL, 78.0, 75.3, 'B+'),
 (8, 7, 9.0, 9.5, 8.5, 16.0, 14.5, 27.0, 26.0, 90.5, 91.0, 88.0, 89.5, 90.0, 'A'),
 (8, 10, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, 23.0, 78.5, 82.0, 80.0, 81.0, 79.8, 'B+'),
+
 -- Student 9
 (9, 1, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, NULL, 57.0, 60.0, NULL, 60.0, 58.5, 'C+'),
 (9, 2, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, NULL, 51.5, 55.0, NULL, 55.0, 53.3, 'C'),
@@ -981,6 +993,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (9, 5, 7.0, 7.5, 6.5, 13.0, 11.5, 20.0, NULL, 65.5, 68.0, NULL, 68.0, 66.8, 'B'),
 (9, 6, 7.5, 8.0, 7.0, 14.0, 12.0, 21.0, 20.0, 69.5, 72.0, 70.0, 71.0, 70.3, 'B'),
 (9, 8, 6.0, 6.5, 5.5, 11.5, 10.5, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+
 -- Student 10
 (10, 1, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, NULL, 80.5, 84.0, NULL, 84.0, 82.3, 'A'),
 (10, 2, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 70.0, NULL, 70.0, 68.5, 'B'),
@@ -988,9 +1001,91 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (10, 5, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 80.0, NULL, 80.0, 78.0, 'B+'),
 (10, 7, 8.5, 9.0, 8.0, 15.0, 14.0, 25.0, 24.0, 83.5, 85.0, 83.0, 84.0, 83.8, 'A-'),
 (10, 9, 7.5, 8.0, 7.0, 13.5, 12.5, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
--- Continue similar pattern for Students 11-20...
--- (For brevity, showing representative data - in production would complete all)
--- Engineering Department Students (21-40) - Sample
+
+-- Student 11
+(11, 1, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 64.0, NULL, 64.0, 62.8, 'B-'),
+(11, 2, 5.5, 6.0, 5.0, 10.0, 9.5, 17.0, NULL, 53.0, 56.0, NULL, 56.0, 54.5, 'C'),
+(11, 3, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 18.0, 64.0, 68.0, 65.0, 66.5, 65.3, 'B-'),
+(11, 4, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, NULL, 57.0, 60.0, NULL, 60.0, 58.5, 'C+'),
+(11, 6, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 20.0, 71.0, 74.0, 72.0, 73.0, 72.0, 'B'),
+(11, 10, 6.5, 7.0, 6.0, 12.5, 11.0, 19.0, 18.0, 64.0, 67.0, 65.0, 66.0, 65.0, 'B-'),
+
+-- Student 12
+(12, 1, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, NULL, 71.5, 75.0, NULL, 75.0, 73.3, 'B+'),
+(12, 2, 6.5, 7.0, 6.0, 12.0, 11.5, 20.0, NULL, 63.0, 66.0, NULL, 66.0, 64.5, 'B-'),
+(12, 4, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 79.0, NULL, 79.0, 77.5, 'B+'),
+(12, 5, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 70.0, NULL, 70.0, 68.5, 'B'),
+(12, 7, 8.5, 9.0, 8.0, 15.0, 14.0, 25.0, 24.0, 83.5, 86.0, 84.0, 85.0, 84.3, 'A-'),
+(12, 8, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 71.0, 69.0, 70.0, 68.5, 'B'),
+
+-- Student 13
+(13, 2, 6.0, 6.5, 5.5, 11.0, 10.0, 17.0, NULL, 56.0, 59.0, NULL, 59.0, 57.5, 'C+'),
+(13, 3, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 65.0, 68.0, 66.0, 67.0, 66.0, 'B-'),
+(13, 4, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 65.0, NULL, 65.0, 63.3, 'B-'),
+(13, 5, 5.0, 5.5, 4.5, 9.0, 8.5, 15.0, NULL, 47.5, 50.0, NULL, 50.0, 48.8, 'C'),
+(13, 6, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 75.0, 73.0, 74.0, 73.0, 'B+'),
+(13, 9, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 65.0, 69.0, 67.0, 68.0, 66.5, 'B'),
+
+-- Student 14
+(14, 1, 9.0, 9.5, 8.5, 16.0, 15.0, 27.0, NULL, 85.0, 89.0, NULL, 89.0, 87.0, 'A'),
+(14, 3, 8.5, 9.0, 8.0, 15.0, 14.5, 26.0, 25.0, 86.0, 88.0, 86.0, 87.0, 86.5, 'A'),
+(14, 4, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 80.0, NULL, 80.0, 78.0, 'B+'),
+(14, 5, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, NULL, 72.5, 76.0, NULL, 76.0, 74.3, 'B+'),
+(14, 7, 9.0, 9.5, 8.5, 16.0, 14.5, 26.0, 25.0, 88.5, 90.0, 88.0, 89.0, 88.8, 'A'),
+(14, 10, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, 23.0, 78.0, 82.0, 80.0, 81.0, 79.5, 'B+'),
+
+-- Student 15
+(15, 1, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 70.0, NULL, 70.0, 68.5, 'B'),
+(15, 2, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 65.0, NULL, 65.0, 63.3, 'B-'),
+(15, 3, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(15, 4, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 71.0, NULL, 71.0, 69.0, 'B'),
+(15, 6, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 75.0, 73.0, 74.0, 73.0, 'B+'),
+(15, 8, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 16
+(16, 1, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 80.0, NULL, 80.0, 78.0, 'B+'),
+(16, 2, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 71.0, NULL, 71.0, 69.0, 'B'),
+(16, 3, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 24.0, 84.5, 87.0, 85.0, 86.0, 85.3, 'A'),
+(16, 5, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, NULL, 72.5, 77.0, NULL, 77.0, 74.8, 'B+'),
+(16, 7, 8.5, 9.0, 8.0, 15.0, 14.0, 25.0, 24.0, 83.5, 86.0, 84.0, 85.0, 84.3, 'A-'),
+(16, 9, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 17
+(17, 1, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, NULL, 51.5, 54.0, NULL, 54.0, 52.8, 'C'),
+(17, 2, 5.0, 5.5, 4.5, 9.5, 8.5, 15.0, NULL, 48.0, 50.0, NULL, 50.0, 49.0, 'C'),
+(17, 4, 6.0, 6.5, 5.5, 11.0, 10.0, 17.0, NULL, 56.0, 59.0, NULL, 59.0, 57.5, 'C+'),
+(17, 5, 5.5, 6.0, 5.0, 10.0, 9.5, 16.0, NULL, 52.0, 55.0, NULL, 55.0, 53.5, 'C'),
+(17, 6, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 66.0, 69.0, 67.0, 68.0, 67.0, 'B'),
+(17, 10, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 61.0, 59.0, 60.0, 59.0, 'C+'),
+
+-- Student 18
+(18, 1, 8.5, 9.0, 8.0, 15.0, 14.0, 25.0, NULL, 79.5, 83.0, NULL, 83.0, 81.3, 'A-'),
+(18, 2, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, NULL, 71.5, 75.0, NULL, 75.0, 73.3, 'B+'),
+(18, 3, 9.0, 9.5, 8.5, 16.0, 15.0, 27.0, 25.0, 90.0, 92.0, 90.0, 91.0, 90.5, 'A'),
+(18, 4, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 80.0, NULL, 80.0, 78.0, 'B+'),
+(18, 5, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 67.0, 72.0, NULL, 72.0, 69.5, 'B'),
+(18, 7, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 88.0, 86.0, 87.0, 86.3, 'A'),
+
+-- Student 19
+(19, 2, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, NULL, 57.0, 60.0, NULL, 60.0, 58.5, 'C+'),
+(19, 3, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 65.0, 68.0, 66.0, 67.0, 66.0, 'B'),
+(19, 4, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 64.0, NULL, 64.0, 62.8, 'B-'),
+(19, 5, 5.5, 6.0, 5.0, 10.0, 9.5, 16.0, NULL, 52.0, 55.0, NULL, 55.0, 53.5, 'C'),
+(19, 8, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 70.0, 68.0, 69.0, 68.0, 'B'),
+(19, 9, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 20
+(20, 1, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, NULL, 71.5, 75.0, NULL, 75.0, 73.3, 'B+'),
+(20, 3, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(20, 4, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, NULL, 72.5, 76.0, NULL, 76.0, 74.3, 'B+'),
+(20, 5, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, NULL, 57.0, 61.0, NULL, 61.0, 59.0, 'C+'),
+(20, 7, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(20, 10, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- ========================================
+-- ENGINEERING DEPARTMENT STUDENTS (21-40)
+-- ========================================
+
 -- Student 21 (Excellent)
 (21, 11, 8.5, 9.0, 8.0, 15.0, 14.5, 26.0, 25.0, 86.0, 88.0, 85.0, 86.5, 86.3, 'A'),
 (21, 12, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, NULL, 72.5, 76.0, NULL, 76.0, 74.3, 'B+'),
@@ -998,6 +1093,15 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (21, 14, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
 (21, 15, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.5, 70.0, 68.0, 69.0, 68.3, 'B'),
 (21, 16, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, 22.0, 77.0, 80.0, 78.0, 79.0, 78.0, 'B+'),
+
+-- Student 22
+(22, 11, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 80.0, 78.0, 79.0, 78.3, 'B+'),
+(22, 12, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, NULL, 62.5, 66.0, NULL, 66.0, 64.3, 'B-'),
+(22, 13, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, NULL, 77.0, 80.0, NULL, 80.0, 78.5, 'B+'),
+(22, 14, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, 21.0, 68.0, 72.0, 70.0, 71.0, 69.5, 'B'),
+(22, 15, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(22, 17, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
 -- Student 23 (Poor due to accident)
 (23, 11, 4.5, 5.0, 4.0, 9.0, 8.0, 14.0, 12.0, 46.5, 48.0, 45.0, 46.5, 46.5, 'C-'),
 (23, 12, 3.5, 4.0, 3.0, 8.0, 7.0, 11.0, NULL, 36.5, 38.0, NULL, 38.0, 37.3, 'D+'),
@@ -1005,6 +1109,55 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (23, 14, 4.0, 4.5, 3.5, 8.5, 7.5, 12.0, 11.0, 41.0, 44.0, 42.0, 43.0, 42.0, 'D+'),
 (23, 16, 5.5, 6.0, 5.0, 11.0, 10.0, 16.0, 15.0, 58.5, 60.0, 58.0, 59.0, 58.8, 'C+'),
 (23, 18, 6.0, 6.5, 5.5, 12.0, 10.5, 17.0, 16.0, 63.5, 65.0, 63.0, 64.0, 63.8, 'B-'),
+
+-- Student 24
+(24, 11, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 84.0, 82.0, 83.0, 82.0, 'A-'),
+(24, 12, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, NULL, 68.0, 72.0, NULL, 72.0, 70.0, 'B'),
+(24, 13, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, NULL, 80.5, 84.0, NULL, 84.0, 82.3, 'A-'),
+(24, 15, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(24, 17, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(24, 19, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 25
+(25, 11, 9.0, 9.5, 8.5, 16.0, 15.0, 27.0, 26.0, 91.0, 92.0, 90.0, 91.0, 91.0, 'A+'),
+(25, 12, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, NULL, 76.0, 80.0, NULL, 80.0, 78.0, 'B+'),
+(25, 13, 9.5, 10.0, 9.0, 17.0, 16.0, 28.0, NULL, 89.5, 93.0, NULL, 93.0, 91.3, 'A+'),
+(25, 14, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 88.0, 86.0, 87.0, 86.3, 'A'),
+(25, 16, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, 23.0, 78.5, 82.0, 80.0, 81.0, 79.8, 'B+'),
+(25, 20, 7.5, 8.0, 7.0, 13.5, 12.5, 23.0, 22.0, 73.5, 77.0, 75.0, 76.0, 74.8, 'B+'),
+
+-- Student 26
+(26, 11, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(26, 12, 5.5, 6.0, 5.0, 10.0, 9.5, 17.0, NULL, 53.0, 57.0, NULL, 57.0, 55.0, 'C'),
+(26, 13, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 66.0, 70.0, NULL, 70.0, 68.0, 'B'),
+(26, 14, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.5, 60.0, 58.0, 59.0, 57.8, 'C+'),
+(26, 15, 7.5, 8.0, 7.0, 13.5, 12.5, 22.0, 21.0, 71.5, 74.0, 72.0, 73.0, 72.3, 'B'),
+(26, 18, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 27
+(27, 11, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, 23.0, 78.0, 82.0, 80.0, 81.0, 79.5, 'B+'),
+(27, 13, 7.5, 8.0, 7.0, 13.5, 12.5, 23.0, NULL, 71.5, 75.0, NULL, 75.0, 73.3, 'B+'),
+(27, 14, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(27, 15, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(27, 16, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(27, 19, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 28
+(28, 11, 9.0, 9.5, 8.5, 16.0, 15.0, 28.0, 27.0, 93.0, 95.0, 93.0, 94.0, 93.5, 'A+'),
+(28, 12, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, NULL, 77.0, 81.0, NULL, 81.0, 79.0, 'B+'),
+(28, 14, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 88.0, 86.0, 87.0, 86.3, 'A'),
+(28, 15, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(28, 17, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(28, 20, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 29
+(29, 11, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(29, 12, 5.0, 5.5, 4.5, 9.0, 8.5, 15.0, NULL, 47.5, 50.0, NULL, 50.0, 48.8, 'C'),
+(29, 13, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 65.0, NULL, 65.0, 63.3, 'B-'),
+(29, 15, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(29, 16, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(29, 18, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
 -- Student 30 (Medical surgery - very poor)
 (30, 11, 3.0, 3.5, 2.5, 7.0, 6.0, 10.0, 9.0, 31.0, 32.0, 30.0, 31.0, 31.0, 'D'),
 (30, 12, 2.5, 3.0, 2.0, 6.0, 5.5, 9.0, NULL, 28.0, 30.0, NULL, 30.0, 29.0, 'D'),
@@ -1012,7 +1165,91 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (30, 14, 3.5, 4.0, 3.0, 7.5, 6.5, 11.0, 10.0, 35.5, 38.0, 36.0, 37.0, 36.3, 'D'),
 (30, 16, 5.0, 5.5, 4.5, 10.0, 9.0, 14.0, 13.0, 51.0, 53.0, 51.0, 52.0, 51.5, 'C'),
 (30, 19, 4.5, 5.0, 4.0, 9.0, 8.0, 13.0, 12.0, 45.5, 48.0, 46.0, 47.0, 46.3, 'C-'),
--- Biosystems Department Students (41-60) - Sample
+
+-- Student 31
+(31, 11, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 80.0, 78.0, 79.0, 78.3, 'B+'),
+(31, 12, 6.5, 7.0, 6.0, 12.0, 11.5, 20.0, NULL, 63.0, 67.0, NULL, 67.0, 65.0, 'B-'),
+(31, 14, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(31, 15, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(31, 17, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(31, 20, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 32
+(32, 11, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(32, 12, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, NULL, 57.0, 61.0, NULL, 61.0, 59.0, 'C+'),
+(32, 13, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, NULL, 72.5, 76.0, NULL, 76.0, 74.3, 'B+'),
+(32, 14, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, 19.0, 62.5, 66.0, 64.0, 65.0, 63.8, 'B-'),
+(32, 15, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(32, 18, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 33
+(33, 12, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, NULL, 51.5, 55.0, NULL, 55.0, 53.3, 'C'),
+(33, 13, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, NULL, 61.5, 65.0, NULL, 65.0, 63.3, 'B-'),
+(33, 14, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(33, 15, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+(33, 16, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 72.5, 76.0, 74.0, 75.0, 73.8, 'B+'),
+(33, 19, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 34 (Has medical for chicken pox)
+(34, 11, 4.0, 4.5, 3.5, 8.0, 7.0, 12.0, 11.0, 38.0, 40.0, 38.0, 39.0, 38.5, 'D+'),
+(34, 13, 3.5, 4.0, 3.0, 7.0, 6.5, 10.0, NULL, 34.0, 36.0, NULL, 36.0, 35.0, 'D'),
+(34, 14, 5.0, 5.5, 4.5, 9.0, 8.0, 14.0, 13.0, 50.0, 52.0, 50.0, 51.0, 50.5, 'C'),
+(34, 15, 4.5, 5.0, 4.0, 8.5, 7.5, 13.0, 12.0, 44.5, 47.0, 45.0, 46.0, 45.3, 'C-'),
+(34, 17, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 56.5, 59.0, 57.0, 58.0, 57.3, 'C+'),
+(34, 20, 4.0, 4.5, 3.5, 8.0, 7.0, 12.0, 11.0, 38.0, 41.0, 39.0, 40.0, 39.0, 'D+'),
+
+-- Student 35
+(35, 11, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 84.0, 82.0, 83.0, 82.0, 'A-'),
+(35, 12, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, NULL, 68.0, 72.0, NULL, 72.0, 70.0, 'B'),
+(35, 13, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, NULL, 80.5, 84.0, NULL, 84.0, 82.3, 'A-'),
+(35, 14, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(35, 16, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(35, 18, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 36
+(36, 11, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 80.0, 78.0, 79.0, 78.3, 'B+'),
+(36, 12, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, NULL, 62.5, 66.0, NULL, 66.0, 64.3, 'B-'),
+(36, 13, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, NULL, 77.0, 81.0, NULL, 81.0, 79.0, 'B+'),
+(36, 15, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(36, 17, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(36, 19, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 37
+(37, 11, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(37, 12, 5.5, 6.0, 5.0, 10.0, 9.5, 17.0, NULL, 53.0, 57.0, NULL, 57.0, 55.0, 'C'),
+(37, 13, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, NULL, 66.0, 70.0, NULL, 70.0, 68.0, 'B'),
+(37, 14, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.5, 60.0, 58.0, 59.0, 57.8, 'C+'),
+(37, 15, 7.5, 8.0, 7.0, 13.5, 12.5, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(37, 20, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 38
+(38, 11, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 85.0, 83.0, 84.0, 82.5, 'A'),
+(38, 12, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, NULL, 68.0, 72.0, NULL, 72.0, 70.0, 'B'),
+(38, 13, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, NULL, 80.5, 85.0, NULL, 85.0, 82.8, 'A-'),
+(38, 14, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(38, 16, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(38, 18, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 39
+(39, 11, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(39, 13, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, NULL, 51.5, 55.0, NULL, 55.0, 53.3, 'C'),
+(39, 14, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(39, 15, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(39, 17, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(39, 19, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 40
+(40, 11, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 81.0, 79.0, 80.0, 78.8, 'B+'),
+(40, 12, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, NULL, 62.5, 66.0, NULL, 66.0, 64.3, 'B-'),
+(40, 13, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, NULL, 77.0, 81.0, NULL, 81.0, 79.0, 'B+'),
+(40, 14, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(40, 16, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(40, 20, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- ========================================
+-- BIOSYSTEMS DEPARTMENT STUDENTS (41-60)
+-- ========================================
+
 -- Student 41 (High performer)
 (41, 21, 9.0, 9.5, 8.5, 16.0, 15.0, 28.0, 27.0, 95.0, 92.0, 90.0, 91.0, 93.0, 'A+'),
 (41, 22, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 84.0, 82.0, 83.0, 82.0, 'A-'),
@@ -1020,6 +1257,7 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (41, 24, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 88.0, 86.0, 87.0, 86.3, 'A'),
 (41, 25, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 70.0, 68.0, 69.0, 68.0, 'B'),
 (41, 26, 8.0, 8.5, 7.5, 14.0, 13.0, 24.0, 23.0, 78.5, 82.0, 80.0, 81.0, 79.8, 'B+'),
+
 -- Student 42 (Medium with medical)
 (42, 21, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 60.0, 58.0, 59.0, 58.5, 'C+'),
 (42, 22, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 54.0, 52.0, 53.0, 52.3, 'C'),
@@ -1027,13 +1265,151 @@ INSERT INTO Exam_Results (student_id, course_id, quiz01_marks, quiz02_marks, qui
 (42, 24, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 62.5, 65.0, 63.0, 64.0, 63.3, 'B-'),
 (42, 25, 5.0, 5.5, 4.5, 9.0, 8.0, 14.0, 13.0, 46.0, 48.0, 46.0, 47.0, 46.5, 'C-'),
 (42, 27, 6.0, 6.5, 5.5, 11.0, 10.0, 17.0, 16.0, 56.0, 58.0, 56.0, 57.0, 56.5, 'C+'),
+
+-- Student 43
+(43, 21, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 70.0, 68.0, 69.0, 68.0, 'B'),
+(43, 22, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 61.0, 59.0, 60.0, 59.0, 'C+'),
+(43, 23, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 75.0, 73.0, 74.0, 73.0, 'B+'),
+(43, 24, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(43, 26, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(43, 28, 7.0, 7.5, 6.5, 13.0, 12.0, 20.0, 19.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 44
+(44, 21, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 88.0, 86.0, 87.0, 86.3, 'A'),
+(44, 22, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(44, 23, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(44, 25, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(44, 27, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(44, 29, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 45
+(45, 21, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 84.0, 82.0, 83.0, 82.0, 'A-'),
+(45, 22, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, 21.0, 69.5, 73.0, 71.0, 72.0, 70.8, 'B'),
+(45, 23, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(45, 24, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(45, 26, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(45, 30, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 46
+(46, 21, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 71.0, 69.0, 70.0, 68.5, 'B'),
+(46, 22, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(46, 23, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 76.0, 74.0, 75.0, 73.5, 'B+'),
+(46, 24, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(46, 25, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 55.0, 53.0, 54.0, 52.8, 'C'),
+(46, 28, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 47
+(47, 21, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(47, 22, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 55.0, 53.0, 54.0, 52.8, 'C'),
+(47, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(47, 24, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+(47, 26, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 76.0, 74.0, 75.0, 73.5, 'B+'),
+(47, 29, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 48
+(48, 21, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 89.0, 87.0, 88.0, 86.8, 'A'),
+(48, 22, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(48, 23, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(48, 25, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(48, 27, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(48, 30, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 49
+(49, 21, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(49, 22, 5.0, 5.5, 4.5, 9.0, 8.0, 15.0, 14.0, 48.0, 52.0, 50.0, 51.0, 49.5, 'C'),
+(49, 23, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(49, 24, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 55.0, 53.0, 54.0, 52.8, 'C'),
+(49, 25, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(49, 28, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
 -- Student 50 (Good performer)
 (50, 21, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 80.0, 83.0, 81.0, 82.0, 81.0, 'A-'),
 (50, 22, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, 21.0, 69.5, 72.0, 70.0, 71.0, 70.3, 'B'),
 (50, 23, 8.5, 9.0, 8.0, 15.0, 14.0, 26.0, 25.0, 85.5, 87.0, 85.0, 86.0, 85.8, 'A'),
 (50, 24, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 77.0, 75.0, 76.0, 75.3, 'B+'),
 (50, 26, 8.0, 8.5, 7.5, 14.0, 13.5, 24.0, 23.0, 78.5, 81.0, 79.0, 80.0, 79.3, 'B+'),
-(50, 29, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 70.0, 68.0, 69.0, 68.0, 'B');
+(50, 29, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 67.0, 70.0, 68.0, 69.0, 68.0, 'B'),
+
+-- Student 51
+(51, 21, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 80.0, 78.0, 79.0, 78.3, 'B+'),
+(51, 22, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, 19.0, 62.5, 66.0, 64.0, 65.0, 63.8, 'B-'),
+(51, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(51, 24, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 82.0, 80.0, 81.0, 80.0, 'A-'),
+(51, 25, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(51, 30, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+
+-- Student 52
+(52, 21, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(52, 22, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 55.0, 53.0, 54.0, 52.8, 'C'),
+(52, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(52, 24, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(52, 26, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(52, 27, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 53
+(53, 21, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 55.0, 53.0, 54.0, 52.8, 'C'),
+(53, 22, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(53, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(53, 25, 5.0, 5.5, 4.5, 9.0, 8.0, 15.0, 14.0, 48.0, 52.0, 50.0, 51.0, 49.5, 'C'),
+(53, 27, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 76.0, 74.0, 75.0, 73.5, 'B+'),
+(53, 28, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 54
+(54, 21, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 84.0, 82.0, 83.0, 82.0, 'A-'),
+(54, 22, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, 21.0, 69.5, 73.0, 71.0, 72.0, 70.8, 'B'),
+(54, 23, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(54, 24, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(54, 26, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(54, 29, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 55
+(55, 21, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 81.0, 79.0, 80.0, 78.8, 'B+'),
+(55, 22, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, 19.0, 62.5, 66.0, 64.0, 65.0, 63.8, 'B-'),
+(55, 23, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(55, 24, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(55, 25, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+(55, 28, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+
+-- Student 56
+(56, 21, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(56, 22, 5.0, 5.5, 4.5, 9.0, 8.0, 15.0, 14.0, 48.0, 52.0, 50.0, 51.0, 49.5, 'C'),
+(56, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(56, 25, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(56, 27, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(56, 30, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 57
+(57, 21, 8.0, 8.5, 7.5, 14.5, 13.5, 25.0, 24.0, 81.0, 85.0, 83.0, 84.0, 82.5, 'A'),
+(57, 22, 7.0, 7.5, 6.5, 13.0, 12.0, 22.0, 21.0, 69.5, 73.0, 71.0, 72.0, 70.8, 'B'),
+(57, 23, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 74.5, 78.0, 76.0, 77.0, 75.8, 'B+'),
+(57, 24, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(57, 25, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(57, 29, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+
+-- Student 58
+(58, 21, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(58, 22, 5.5, 6.0, 5.0, 10.0, 9.0, 16.0, 15.0, 51.5, 55.0, 53.0, 54.0, 52.8, 'C'),
+(58, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(58, 24, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+(58, 26, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(58, 28, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+'),
+
+-- Student 59
+(59, 21, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(59, 22, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 58.0, 62.0, 60.0, 61.0, 59.5, 'C+'),
+(59, 23, 7.5, 8.0, 7.0, 14.0, 12.5, 22.0, 21.0, 72.0, 76.0, 74.0, 75.0, 73.5, 'B+'),
+(59, 24, 6.5, 7.0, 6.0, 12.0, 11.0, 19.0, 18.0, 61.5, 65.0, 63.0, 64.0, 62.8, 'B-'),
+(59, 25, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(59, 27, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+
+-- Student 60
+(60, 21, 7.5, 8.0, 7.0, 14.0, 13.0, 23.0, 22.0, 77.5, 81.0, 79.0, 80.0, 78.8, 'B+'),
+(60, 22, 6.5, 7.0, 6.0, 12.0, 11.0, 20.0, 19.0, 62.5, 66.0, 64.0, 65.0, 63.8, 'B-'),
+(60, 23, 7.0, 7.5, 6.5, 13.0, 12.0, 21.0, 20.0, 66.0, 70.0, 68.0, 69.0, 67.5, 'B'),
+(60, 24, 8.0, 8.5, 7.5, 14.5, 13.5, 24.0, 23.0, 79.0, 83.0, 81.0, 82.0, 80.5, 'A-'),
+(60, 26, 7.5, 8.0, 7.0, 14.0, 13.0, 22.0, 21.0, 71.5, 75.0, 73.0, 74.0, 72.8, 'B+'),
+(60, 30, 6.0, 6.5, 5.5, 11.0, 10.0, 18.0, 17.0, 56.0, 60.0, 58.0, 59.0, 57.5, 'C+');
+
 
 
 
