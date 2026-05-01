@@ -6,15 +6,11 @@ SELECT
 
 FROM Course c
 
-JOIN  lec_enrollment e
+JOIN  enrollment e
     ON e.course_id=c.course_id
 
-JOIN Batch b 
-    ON e.batch_id=b.batch_id
+JOIN Student s
+ ON e.student_id=s.student_id;
 
-JOIN Department d
-    ON c.dep_id=d.dep_id
-
-WHERE b.batch_id= 1
-GROUP BY d.dep_name;
+WHERE s.student_reg_no = 'TG/2020/001';
 
