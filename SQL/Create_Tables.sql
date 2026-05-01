@@ -1,5 +1,7 @@
--- Active: 1777615804621@@127.0.0.1@3306@student_management_system
-CREATE DATABASE Student_Management_System ;
+
+CREATE DATABASE Student_Management_System;
+
+USE Student_Management_System;
 
 CREATE TABLE User(
     user_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -28,7 +30,7 @@ CREATE TABLE Technical_Officer(
 
 CREATE TABLE Department(
     dep_id INT PRIMARY KEY AUTO_INCREMENT,
-    dep_name VARCHAR(50) NOT NULL,
+    dep_name VARCHAR(100) NOT NULL,
     status VARCHAR(15) NOT NULL
 );
 
@@ -67,7 +69,7 @@ CREATE TABLE Lecture(
     user_id INT,
     dep_id INT,
     lec_reg_no VARCHAR(12) NOT NULL,
-    lec_name VARCHAR(20) NOT NULL,
+    lec_name VARCHAR(100) NOT NULL,
     lec_nic VARCHAR(20) NOT NULL,
     lec_dob DATE,
     contact_no VARCHAR(10) NOT NULL,
@@ -170,7 +172,7 @@ CREATE TABLE Exam_Results(
     end_exam_practical_marks DECIMAL(4,2),
     end_exam_result DECIMAL(4,2),
     total_result DECIMAL(4,2),
-    grade VARCHAR(1),
+    grade VARCHAR(2),
     FOREIGN KEY (student_id) REFERENCES Student(student_id) ON DELETE CASCADE,
     FOREIGN KEY (course_id) REFERENCES Course(course_id) ON DELETE CASCADE
 );
@@ -183,13 +185,5 @@ CREATE TABLE Eligible(
     FOREIGN KEY (student_id) REFERENCES Student(student_id) ON DELETE CASCADE,
     FOREIGN KEY (course_id) REFERENCES Course(course_id) ON DELETE CASCADE
 );
-
-
-
-
-
-
-
-
 
 

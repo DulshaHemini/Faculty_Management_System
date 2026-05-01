@@ -19,27 +19,27 @@ CREATE USER 'student_user'@'localhost'
 IDENTIFIED BY 'Student@123';
 
 GRANT ALL PRIVILEGES
-ON Student_Management_System.*
+ON Faculty_Management_System.*
 TO 'admin_user'@'localhost'
 WITH GRANT OPTION;
 
 GRANT ALL PRIVILEGES
-ON Student_Management_System.*
+ON Faculty_Management_System.*
 TO 'dean_user'@'localhost';
 
 GRANT ALL PRIVILEGES
-ON Student_Management_System.*
+ON Faculty_Management_System.*
 TO 'lecturer_user'@'localhost';
 
 GRANT SELECT, INSERT, UPDATE
-ON Student_Management_System.attendance_record
+ON Faculty_Management_System.attendance_record
 TO 'to_user'@'localhost';
 
 GRANT SELECT, INSERT, UPDATE
-ON Student_Management_System.course_session
+ON Faculty_Management_System.course_session
 TO 'to_user'@'localhost';
 
 GRANT SELECT, INSERT, UPDATE
-ON Student_Management_System.medical_request
+ON Faculty_Management_System.medical_request
 TO 'to_user'@'localhost';
 
