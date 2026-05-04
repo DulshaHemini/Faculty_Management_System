@@ -63,3 +63,5 @@ BEGIN
 END $$
 
 DELIMITER ;
+
+CALL Update_Student_GPA(1);
