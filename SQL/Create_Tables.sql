@@ -86,7 +86,7 @@ CREATE TABLE Lecture(
 CREATE TABLE Student(
     student_id INT PRIMARY KEY AUTO_INCREMENT,
     user_id INT,
-    student_reg_no VARCHAR(12) NOT NULL,
+    student_reg_no VARCHAR(12) NOT NULL UNIQUE,
     nic VARCHAR(12) NOT NULL,
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
